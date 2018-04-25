@@ -17,3 +17,6 @@ Route::get('/', function () {
 */
 
 Route::get('/', 'IndexController@index')->name('index');
+
+Route::get('/admin', 'Admin\IndexController@index')->name('admin.index');
+Route::post('/insert', 'Admin\IndexController@insert')->name('admin.insert');
