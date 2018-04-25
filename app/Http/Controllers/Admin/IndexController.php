@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Models\Articles;
+use App\Models\Tags;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
@@ -11,18 +12,23 @@ class IndexController extends Controller
     //
 	public function index()
 	{
-		return view('admin.index.index');
+		$tags = Tags::orderBy('id')->get(['id', 'tag']);
+		
+		
+		return view('admin.index.index', ['tags' => $tags]);
 	}
 	
-	public function insert(Request $request)
+	public function create(Request $request)
 	{
 		$articles = [];
 		
 		$articles['title'] = $request->input('title');
 		$articles['content'] = $request->input('content');
+		$articles['tags'] = implode(',', $request->input('tags'));
+		
 		
 		Articles::insert($articles);
 		
-		redirect()->route('admin.index');
+		return redirect()->route('admin.index');
 	}
 }

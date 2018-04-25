@@ -1,4 +1,7 @@
 @extends('admin.inspinia')
+@section('css')
+    <link rel="stylesheet" href="{{asset('css/bootstrap-select.css')}}">
+@endsection
 @section('content')
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->
@@ -16,10 +19,24 @@
                         <div class="box-header with-border">
                             <h3 class="box-title">文章编辑</h3>
                         </div>
-                        <form method="post" action="{{route('admin.insert')}}" class="form-horizontal">
 
+                        <form method="post" action="{{route('admin.create')}}" class="form-horizontal">
                             {!!csrf_field()!!}
                             <div class="box-body">
+                                <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
+                                    <label for="inputEmail3" class="col-sm-2 control-label">标签<span style="color: red">*</span>：
+                                    </label>
+
+                                    <div class="col-sm-3 input-group">
+                                        <select name="tags[]"  class="selectpicker btn-default" multiple data-max-options="3">
+                                            <option value="0" selected>请选择</option>
+                                            @foreach ($tags as $tag)
+                                                <option value='{!! $tag->id !!}'>{{$tag->tag}}</option>
+
+                                            @endforeach
+                                        </select>
+                                    </div>
+                                </div>
                                 <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
                                     <label for="inputEmail3" class="col-sm-2 control-label">标题<span style="color: red">*</span>：
                                     </label>
@@ -59,4 +76,10 @@
             </div>
         </section>
     </div>
+@endsection
+@section('js')
+    <script src="{{asset('js/bootstrap/bootstrap-select.js')}}"></script>
+    <script>
+
+    </script>
 @endsection
