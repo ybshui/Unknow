@@ -2,7 +2,7 @@
 <!--
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
-        Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 <head>
@@ -43,9 +43,9 @@
     <!-- Banner -->
     <section id="banner">
         <div class="inner">
-            <h2>刘星</h2>
-            <p>一个美丽的小姐姐<br />
-                就是特么的有点傻<br />
+            <h2>Spectral</h2>
+            <p>Another fine responsive<br />
+                site template freebie<br />
                 crafted by <a href="http://html5up.net">HTML5 UP</a>.</p>
             <ul class="actions">
                 <li><a href="#" class="button special">Activate</a></li>

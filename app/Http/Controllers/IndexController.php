@@ -9,6 +9,6 @@ class IndexController extends Controller
     //
 	public function index()
 	{
-		echo phpinfo();
+		return view('index.index');
 	}
 }
