@@ -10,4 +10,6 @@ class Articles extends Model
 	protected $connection = 'S1';
 	
 	protected $table = 'articles';
+	
+	public $timestamps = false;
 }

@@ -10,13 +10,8 @@ class IndexController extends Controller
     //
 	public function index()
 	{
-		return view('index.index');
-	}
-	
-	public function show()
-	{
 		$articles = Articles::orderBy('id')->get(['title', 'content']);
 		
-		return view('index.show', ['articles' => $articles]);
+		return view('index.index', ['articles' => $articles]);
 	}
 }
