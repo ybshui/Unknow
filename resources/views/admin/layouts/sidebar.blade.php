@@ -33,18 +33,26 @@
             <li class="header">HEADER</li>
             <!-- Optionally, you can add icons to the links -->
             <li class="treeview">
-                <a href="#"><i class="fa fa-link"></i> <span>文章</span>
+                <a href="#"><i class="fa fa-link"></i> <span>文章管理</span>
                     <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
                 </span>
                 </a>
                 <ul class="treeview-menu">
                     <li><a href="{{ route('admin.articles') }}">文章列表</a></li>
-                    <li><a href="{{ route('admin.index') }}">文章编辑</a></li>
+                    <li><a href="{{ route('admin.articles.write') }}">文章编辑</a></li>
                 </ul>
             </li>
-            <li>
-                <a href="#"><i class="fa fa-link"></i> <span>菜单二</span></a>
+            <li class="treeview">
+                <a href="#"><i class="fa fa-link"></i> <span>图片管理</span>
+                    <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                </span>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a href="{{ route('admin.photos.list') }}">图片列表</a></li>
+                    <li><a href="{{ route('admin.photos.upload') }}">上传图片</a></li>
+                </ul>
             </li>
             <li class="treeview">
                 <a href="#"><i class="fa fa-link"></i> <span>菜单三</span>

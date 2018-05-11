@@ -8,7 +8,7 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                文章列表
+                照片列表
                 <small></small>
             </h1>
         </section>
@@ -18,7 +18,7 @@
                 <div class="col-xs-12">
                     <div class="box">
                         <div class="box-header">
-                            <h3 class="box-title">文章列表</h3>
+                            <h3 class="box-title">照片列表</h3>
 
                             <div class="box-tools">
                                 <div class="input-group input-group-sm" style="width: 150px;">
@@ -39,33 +39,11 @@
                                         <th>标题</th>
                                         <th>摘要</th>
                                         <th>标签</th>
-                                        <th>配图路径</th>
+                                        <th>头图路径</th>
                                         <th>创作时间</th>
                                         <th>更新时间</th>
                                         <th>操作</th>
                                     </tr>
-                                    @foreach($articles as $article)
-                                        <tr>
-                                            <td>{{ $article->id }}</td>
-                                            <td>{{ $article->title }}</td>
-                                            <td>{{ $article->summary }}</td>
-                                            <td><span class="label label-success">{{ $article->tags }}</span></td>
-                                            <td>{{ $article->image_path }}</td>
-                                            <td>{{ $article->create_time }}</td>
-                                            <td>{{ $article->update_time }}</td>
-                                            <td>
-                                                <a href="{{ route('admin.view', ['id' => $article->id]) }}" class="btn btn-xs btn-info " data-original-title="查看" data-placement="top">
-                                                    查看
-                                                </a>
-                                                <a href="{{ route('admin.update', ['id' => $article->id]) }}" class="btn btn-xs btn-warning " data-original-title="修改" data-placement="top">
-                                                    修改
-                                                </a>
-                                                <a href="{{ route('admin.view', ['id' => $article->id]) }}" class="btn btn-xs btn-danger " data-original-title="删除" data-placement="top">
-                                                    删除
-                                                </a>
-                                            </td>
-                                        </tr>
-                                    @endforeach
                                 </tbody>
                             </table>
                         </div>

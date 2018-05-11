@@ -21,7 +21,7 @@
                             <h3 class="box-title">文章编辑</h3>
                         </div>
 
-                        <form method="post" action="{{route('admin.edit')}}" class="form-horizontal">
+                        <form method="post" action="{{route('admin.articles.edit')}}" class="form-horizontal">
                             {!!csrf_field()!!}
                             <div class="box-body">
                                 <input type="hidden" name="id" value="{{ $article->id }}">
@@ -31,9 +31,9 @@
 
                                     <div class="col-sm-3 input-group">
                                         <select name="tags[]"  class="selectpicker btn-default" multiple data-max-options="3">
-                                            <option value="0" selected>请选择</option>
+                                            <option value="0">请选择</option>
                                             @foreach ($tags as $tag)
-                                                <option value='{!! $tag->id !!}'>{{$tag->tag}}</option>
+                                                <option value='{!! $tag->id !!}' @if(strstr($article->tags, (string)$tag->id)) selected  @endif>{{$tag->tag}}</option>
 
                                             @endforeach
                                         </select>
@@ -83,7 +83,7 @@
                                     <label for="inputEmail3" class="col-sm-2 control-label">内容<span style="color: red">*</span>：
                                     </label>
 
-                                    <div class="col-sm-10">
+                                    <div class="col-sm-10" style="margin-left: -17px;">
                                         <!-- 加载编辑器的容器 -->
                                         <script id="container" name="content" type="text/plain" style='width:100%;height:300px;'>
                                             {!! $article->content !!}

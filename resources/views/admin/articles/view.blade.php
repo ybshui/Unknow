@@ -23,9 +23,6 @@
                                 {{ $article->title }}
                             </h3>
                             <div>
-                                {{ $article->tags }}
-                            </div>
-                            <div>
                                 {!! $article->content !!}
                             </div>
                             <div>

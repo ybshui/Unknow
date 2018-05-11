@@ -1011,7 +1011,7 @@
                                     }
                                 });
                             }
-                            activeMasksetIndex = initialIndex; //restore index
+                            activeMasksetIndex = initialIndex; //restore articles
                         }
 
                         var radixPosition = getActiveBuffer().join('').indexOf(opts.radixPoint);

@@ -7,25 +7,50 @@ use App\Models\Tags;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
-class IndexController extends Controller
+class ArticleController extends Controller
 {
     //
-	public function index()
+	public function write()
 	{
 		$tags = Tags::orderBy('id')->get(['id', 'tag']);
 		
-		
-		return view('admin.index.index', ['tags' => $tags]);
+		return view('admin.articles.write', ['tags' => $tags]);
 	}
 	
+	/**
+	 * 文章列表
+	 *
+	 * @return mixed
+	 */
 	public function articles()
 	{
-		$articles = Articles::orderBy('create_time', 'desc')->paginate(10);
+		$articles = Articles::where('delete', 0)->orderBy('create_time', 'desc')->paginate(10);
 		
+		$tags = Tags::orderBy('id')->get(['id', 'tag']);
 		
-		return view('admin.index.articles', ['articles' => $articles]);
+		$class_arr = ['label-success', 'label-info', 'label-warning', 'label-danger'];
+		
+		foreach ($articles as $key => $article) {
+			$str = '';
+			foreach ($tags as $tag) {
+				if (strstr($article->tags, (string)$tag->id) !== false) {
+					$str .= "<span class='label " . $class_arr[($tag->id - 1)] ."'>". $tag->tag ."</span> ";
+				}
+			}
+			
+			$articles[$key]->tags = $str;
+		}
+		
+		return view('admin.articles.articles', ['articles' => $articles]);
 	}
 	
+	/**
+	 * 保存文章
+	 *
+	 * @param Request $request
+	 *
+	 * @return mixed
+	 */
 	public function create(Request $request)
 	{
 		$articles = [];
@@ -41,13 +66,20 @@ class IndexController extends Controller
 		return redirect()->route('admin.articles');
 	}
 	
+	/**
+	 * 预览文章
+	 *
+	 * @param Request $request
+	 *
+	 * @return mixed
+	 */
 	public function view(Request $request)
 	{
 		$id = $request->input('id');
 		
 		$article = Articles::where('id', $id)->first();
 		
-		return view('admin.index.view', ['article' => $article]);
+		return view('admin.articles.view', ['article' => $article]);
 	}
 	
 	public function update(Request $request)
@@ -58,9 +90,16 @@ class IndexController extends Controller
 		
 		$tags = Tags::orderBy('id')->get(['id', 'tag']);
 		
-		return view('admin.index.update', ['article' => $article, 'tags' => $tags]);
+		return view('admin.articles.update', ['article' => $article, 'tags' => $tags]);
 	}
 	
+	/**
+	 * 更新文章
+	 *
+	 * @param Request $request
+	 *
+	 * @return mixed
+	 */
 	public function edit(Request $request)
 	{
 		$id = $request->input('id');
@@ -76,4 +115,20 @@ class IndexController extends Controller
 		
 		return redirect()->route('admin.articles');
 	}
+	
+	/**
+	 * 软删除
+	 */
+	public function delete(Request $request)
+	{
+		$id = $request->input('id');
+		
+		$articles = [];
+		$articles['delete'] = 1;
+		
+		Articles::where('id', $id)->update($articles);
+		
+		return redirect()->route('admin.articles');
+	}
+	
 }

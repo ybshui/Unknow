@@ -8,7 +8,7 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                文章编辑
+                图片上传
                 <small></small>
             </h1>
         </section>
@@ -18,77 +18,49 @@
                 <div class="col-sm-offset-1 col-md-10">
                     <div class="box box-info">
                         <div class="box-header with-border">
-                            <h3 class="box-title">文章编辑</h3>
+                            <h3 class="box-title">图片上传</h3>
                         </div>
 
-                        <form method="post" action="{{route('admin.create')}}" class="form-horizontal">
+                        <form method="post" action="" class="form-horizontal">
                             {!!csrf_field()!!}
                             <div class="box-body">
-                                <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
-                                    <label for="inputEmail3" class="col-sm-2 control-label">标签<span style="color: red">*</span>：
+                                <div class="form-group{{ $errors->has('book') ? ' has-error' : '' }}">
+                                    <label for="inputEmail3" class="col-sm-2 control-label">相册<span style="color: red">*</span>：
                                     </label>
 
                                     <div class="col-sm-3 input-group">
-                                        <select name="tags[]"  class="selectpicker btn-default" multiple data-max-options="3">
-                                            <option value="0" selected>请选择</option>
-                                            @foreach ($tags as $tag)
-                                                <option value='{!! $tag->id !!}'>{{$tag->tag}}</option>
-
-                                            @endforeach
+                                        <select name="book"  class="selectpicker btn-default" >
+                                            <option value='默认'>默认</option>
+                                            <option value='青春'>青春</option>
+                                            <option value='风景'>风景</option>
                                         </select>
                                     </div>
                                 </div>
-                                <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
-                                    <label for="inputEmail3" class="col-sm-2 control-label">标题<span style="color: red">*</span>：
+                                <div class="form-group{{ $errors->has('description') ? ' has-error' : '' }}">
+                                    <label for="inputEmail3" class="col-sm-2 control-label">描述：
                                     </label>
 
                                     <div class="col-sm-6 input-group">
-                                        <input type="text" class="form-control" name="title" placeholder="标题" value="">
+                                        <input type="text" class="form-control" name="description" placeholder="描述" value="">
                                         @if ($errors->has('name'))
                                             <span class="help-block">
-                                                <strong>{{ $errors->first('title') }}</strong>
-                                            </span>
-                                        @endif
-                                    </div>
-                                </div>
-                                <div class="form-group{{ $errors->has('title') ? ' has-error' : '' }}">
-                                    <label for="inputEmail3" class="col-sm-2 control-label">摘要<span style="color: red">*</span>：
-                                    </label>
-
-                                    <div class="col-sm-6 input-group">
-                                        <input type="text" class="form-control" name="summary" placeholder="摘要" value="">
-                                        @if ($errors->has('name'))
-                                            <span class="help-block">
-                                                <strong>{{ $errors->first('summary') }}</strong>
+                                                <strong>{{ $errors->first('description') }}</strong>
                                             </span>
                                         @endif
                                     </div>
                                 </div>
                                 <div class="form-group{{ $errors->has('image_path') ? ' has-error' : '' }}">
                                     <input type="hidden" name="_token" class="tag_token" value="<?php echo csrf_token(); ?>">
-                                    <label for="inputEmail3" class="col-sm-2 control-label">头图<span style="color: red">*</span>：
+                                    <label for="inputEmail3" class="col-sm-2 control-label">照片<span style="color: red">*</span>：
                                     </label>
 
                                     <div class="layui-upload">
                                         <button type="button" class="layui-btn" id="test1" value="">上传图片</button>
-                                        <input type="hidden" name="image_path" value="">
-                                        <div class="layui-upload-list">
-                                            <img class="layui-upload-img" id="demo1" style="width: 210px;margin-left: 175px;">
-                                            <p id="demoText"></p>
-                                        </div>
+                                        <input type="hidden" name="photo_path[]" value="">
+                                        <div class="layui-upload-list" id="demo2" style="margin-left: 175px;"></div>
                                     </div>
                                 </div>
-                                <div class="form-group{{ $errors->has('content') ? ' has-error' : '' }}">
-                                    <label for="inputEmail3" class="col-sm-2 control-label">内容<span style="color: red">*</span>：
-                                    </label>
 
-                                    <div class="col-sm-10">
-                                        <!-- 加载编辑器的容器 -->
-                                        <script id="container" name="content" type="text/plain" style='width:100%;height:300px;'>
-                                        </script>
-
-                                    </div>
-                                </div>
                                 <div class="box-footer">
                                     <a href="" class="btn btn-default">返回</a>
                                     <button type="submit" class="btn btn-info pull-right">确认</button>
@@ -101,15 +73,10 @@
         </section>
     </div>
 @endsection
-@include('UEditor::head')
 @section('js')
     <script src="{{asset('js/bootstrap/bootstrap-select.js')}}"></script>
     <script src="js/layui.js"></script>
     <script>
-        var ue = UE.getEditor('container');
-        ue.ready(function(){
-            ue.execCommand('serverparam', '_token', '{{ csrf_token() }}');
-        });
         layui.use('upload', function(){
             var upload = layui.upload;
             var tag_token = $(".tag_token").val();
@@ -118,22 +85,22 @@
                 elem: '#test1', //绑定元素
                 exts: 'jpg|png|gif', //设置一些后缀，用于演示前端验证和后端的验证
                 accept: 'images', //上传文件类型
-                url: '/uploadImage/', //上传接口
+                multiple: true,
+                //url: '/uploadImage/', //上传接口
                 data: {'_token':tag_token},
                 before: function(obj){
                     //预读本地文件示例，不支持ie8
                     obj.preview(function(index, file, result){
-                        $('#demo1').attr('src', result); //图片链接（base64）
+                        $('#demo2').append('<img style="width: 180px;height: 110px;" src="'+ result +'" alt="'+ file.name +'" class="layui-upload-img">')
                     });
                 },
                 done: function(res){
-
                     if(res.status == 1){
-                        console.log(res);
-                        var demoText = $('#demoText');
-                        demoText.html('<a style="margin-left: 30.5%; margin-top: -5.5%;" class="layui-btn layui-btn-mini demo-reload demo-delete" onclick="delete_image()">删除</a>');
-
-                        $('input[name="image_path"]').val(res.message);
+//                      $('#demo1').append('<img src="'+ result +'" alt="'+ file.name +'" class="layui-upload-img">')
+                        var path_arr = $('input[name="photo_path"]').val();
+                        path_arr.push(res.message);
+                        console.log(path_arr);
+                        $('input[name="photo_path"]').val(path_arr);
                         layer.alert('上传成功');
                     }else{
                         layer.alert(res.message);

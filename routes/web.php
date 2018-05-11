@@ -16,15 +16,26 @@ Route::get('/', function () {
 });
 */
 
-Route::get('/', 'IndexController@index')->name('index');
+Route::get('/', 'IndexController@articles')->name('articles');
+
+Route::get('/adminArticles', 'Admin\ArticleController@articles')->name('admin.articles');
+
+Route::name('admin.articles.')->group(function () {
+	Route::get('articleWrite', 'Admin\ArticleController@write')->name('write');
+	
+	Route::post('articleCreate', 'Admin\ArticleController@create')->name('create');
+	Route::get('articleView', 'Admin\ArticleController@view')->name('view');
+	Route::get('articleUpdate', 'Admin\ArticleController@update')->name('update');
+	Route::post('articleEdit', 'Admin\ArticleController@edit')->name('edit');
+	Route::get('articleDelete', 'Admin\ArticleController@delete')->name('delete');
+});
+
+Route::name('admin.photos.')->group(function () {
+	Route::get('photoList', 'Admin\PhotoController@lists')->name('list');
+	Route::get('photoUpload', 'Admin\PhotoController@upload')->name('upload');
+});
 
 
-Route::get('/write', 'Admin\IndexController@index')->name('admin.index');
-Route::get('/admin', 'Admin\IndexController@articles')->name('admin.articles');
-Route::post('/create', 'Admin\IndexController@create')->name('admin.create');
-Route::get('/view', 'Admin\IndexController@view')->name('admin.view');
-Route::get('/update', 'Admin\IndexController@update')->name('admin.update');
-Route::post('/edit', 'Admin\IndexController@edit')->name('admin.edit');
 
 Route::post('/uploadImage', 'Admin\UploadController@uploadImage')->name('admin.uploadImage');
 Route::get('/deleteImage', 'Admin\UploadController@deleteImage')->name('admin.deleteImage');

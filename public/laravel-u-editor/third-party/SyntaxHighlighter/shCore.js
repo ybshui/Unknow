@@ -277,7 +277,7 @@ if (XRegExp) {
             // nonparticipating capturing groups
             if (!compliantExecNpcg && match.length > 1 && indexOf(match, "") > -1) {
                 r2 = RegExp(this.source, nativ.replace.call(getNativeFlags(this), "g", ""));
-                // Using `str.slice(match.index)` rather than `match[0]` in case lookahead allowed
+                // Using `str.slice(match.articles)` rather than `match[0]` in case lookahead allowed
                 // matching due to characters outside the match
                 nativ.replace.call((str + "").slice(match.index), r2, function () {
                     for (var i = 1; i < arguments.length - 2; i++) {
@@ -1173,11 +1173,11 @@ if (typeof(SyntaxHighlighter) == 'undefined') var SyntaxHighlighter = function()
     };
 
     /**
-     * Finds an index of element in the array.
+     * Finds an articles of element in the array.
      * @ignore
      * @param {Object} searchElement
      * @param {Number} fromIndex
-     * @return {Number} Returns index of element if found; -1 otherwise.
+     * @return {Number} Returns articles of element if found; -1 otherwise.
      */
     function indexOf(array, searchElement, fromIndex)
     {
@@ -1628,7 +1628,7 @@ if (typeof(SyntaxHighlighter) == 'undefined') var SyntaxHighlighter = function()
 
     /**
      * Callback method for Array.sort() which sorts matches by
-     * index position and then by length.
+     * articles position and then by length.
      *
      * @param {Match} m1	Left object.
      * @param {Match} m2    Right object.
@@ -1636,14 +1636,14 @@ if (typeof(SyntaxHighlighter) == 'undefined') var SyntaxHighlighter = function()
      */
     function matchesSortCallback(m1, m2)
     {
-        // sort matches by index first
+        // sort matches by articles first
         if(m1.index < m2.index)
             return -1;
         else if(m1.index > m2.index)
             return 1;
         else
         {
-            // if index is the same, sort by length
+            // if articles is the same, sort by length
             if(m1.length < m2.length)
                 return -1;
             else if(m1.length > m2.length)
