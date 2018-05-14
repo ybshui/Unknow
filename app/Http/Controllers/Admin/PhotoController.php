@@ -9,7 +9,7 @@ class PhotoController extends Controller
 {
     //
 	
-	public function lists(Request $request)
+	public function lists()
 	{
 		return view('admin.photos.list');
 	}
@@ -17,5 +17,10 @@ class PhotoController extends Controller
 	public function upload()
 	{
 		return view('admin.photos.upload');
+	}
+	
+	public function store(Request $request)
+	{
+		dd($request->input());
 	}
 }

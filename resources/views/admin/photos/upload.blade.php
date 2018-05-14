@@ -56,7 +56,7 @@
 
                                     <div class="layui-upload">
                                         <button type="button" class="layui-btn" id="test1" value="">上传图片</button>
-                                        <input type="hidden" name="photo_path[]" value="">
+                                        <input type="hidden" name="photo_path" value="">
                                         <div class="layui-upload-list" id="demo2" style="margin-left: 175px;"></div>
                                     </div>
                                 </div>
@@ -86,22 +86,23 @@
                 exts: 'jpg|png|gif', //设置一些后缀，用于演示前端验证和后端的验证
                 accept: 'images', //上传文件类型
                 multiple: true,
-                //url: '/uploadImage/', //上传接口
+                url: '/uploadImage/', //上传接口
                 data: {'_token':tag_token},
                 before: function(obj){
                     //预读本地文件示例，不支持ie8
                     obj.preview(function(index, file, result){
-                        $('#demo2').append('<img style="width: 180px;height: 110px;" src="'+ result +'" alt="'+ file.name +'" class="layui-upload-img">')
+                        $('#demo2').append('<img style="width: 180px;height: 110px;" src="'+ result +'" alt="'+ file.name +'" class="layui-upload-img"><a style="margin-left: -7.7%; margin-top: 7.5%;" class="layui-btn layui-btn-mini demo-reload demo-delete" onclick="delete_image($(this))">删除</a></img>')
                     });
                 },
                 done: function(res){
                     if(res.status == 1){
-//                      $('#demo1').append('<img src="'+ result +'" alt="'+ file.name +'" class="layui-upload-img">')
-                        var path_arr = $('input[name="photo_path"]').val();
-                        path_arr.push(res.message);
-                        console.log(path_arr);
-                        $('input[name="photo_path"]').val(path_arr);
-                        layer.alert('上传成功');
+                        var path_str = $("input[name='photo_path']").val();
+                        if (path_str != '') {
+                            path_str += ","
+                        }
+                        path_str += res.message;
+                        $('input[name="photo_path"]').val(path_str);
+                        //layer.alert('上传成功');
                     }else{
                         layer.alert(res.message);
                     }
@@ -116,8 +117,9 @@
                 }
             });
         });
-        function delete_image() {
-            var file_path = $('#test1').val();
+        function delete_image(that) {
+
+            var file_path = that.val();console.log(that);
             $.ajax({
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="_token"]').attr('content')
@@ -130,7 +132,7 @@
                 }
             });
             $('#test1').val('');
-            $("#demo1").attr('src', '');
+            $("#demo2").attr('src', '');
             $('#demoText').html('');
         }
     </script>

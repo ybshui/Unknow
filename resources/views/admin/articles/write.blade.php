@@ -129,7 +129,6 @@
                 done: function(res){
 
                     if(res.status == 1){
-                        console.log(res);
                         var demoText = $('#demoText');
                         demoText.html('<a style="margin-left: 30.5%; margin-top: -5.5%;" class="layui-btn layui-btn-mini demo-reload demo-delete" onclick="delete_image()">删除</a>');
 

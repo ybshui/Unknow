@@ -28,30 +28,22 @@ class UploadController extends Controller
 				$message = "上传文件不能大于1MB";
 			}else{
 				$status = 0;
-				$date = date('Ymd');
-				$path = "upload/".$date."/";
+				$path = "upload/images/";
 				$file_path = $path . $file_name;
 				
-				if (file_exists($file_path)) {
-					$message = "此文件已经存在啦";
-					
+				// 判断当前的目录是否存在，若不存在就新建一个!
+				if (!is_dir($path)){
+					mkdir($path,0777);
+				}
+				
+				//此函数只支持 HTTP POST 上传的文件
+				$upload_result = move_uploaded_file($file_tmp, $file_path);
+				
+				if ($upload_result) {
+					$status = 1;
+					$message = $file_path;
 				} else {
-					
-					// 判断当前的目录是否存在，若不存在就新建一个!
-					if (!is_dir($path)){
-						mkdir($path,0777);
-					
-					}
-					
-					//此函数只支持 HTTP POST 上传的文件
-					$upload_result = move_uploaded_file($file_tmp, $file_path);
-					
-					if ($upload_result) {
-						$status = 1;
-						$message = $file_path;
-					} else {
-						$message = "文件上传失败，请稍后再尝试";
-					}
+					$message = "文件上传失败，请稍后再尝试";
 				}
 			}
 		} else {
