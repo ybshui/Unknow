@@ -33,7 +33,7 @@ class UploadController extends Controller
 				echo $file_path;
 				// 判断当前的目录是否存在，若不存在就新建一个!
 				if (!is_dir($path)){
-					mkdir($path,0777);
+					mkdir($path, 0777);
 				}
 				
 				//此函数只支持 HTTP POST 上传的文件

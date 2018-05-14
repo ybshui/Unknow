@@ -98,7 +98,7 @@
                     if(res.status == 1){
                         var path_str = $("input[name='photo_path']").val();
                         if (path_str != '') {
-                            path_str += ","
+                            path_str += ",";
                         }
                         path_str += res.message;
                         $('input[name="photo_path"]').val(path_str);
@@ -132,7 +132,7 @@
                 }
             });
             $('#test1').val('');
-            $("#demo2").attr('src', '');
+            $(that).attr('src', '');
             $('#demoText').html('');
         }
     </script>
