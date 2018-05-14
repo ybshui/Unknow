@@ -7620,4 +7620,11625 @@
                 region: "Курская область",
                 city: "Коренево",
                 operator: "",
+<<<<<<< HEAD
+                desc: ""
+            }, {
+                mask: "+7(47148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Железногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Белая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47150)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Дмитриев-Льговский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Золотухино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Рыльск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Тим",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Солнцево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Мантурово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Конышевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47157)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Касторное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47158)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Кшенский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47159)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Курская область",
+                city: "Черемисиново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(472)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4722)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Белгород",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47231)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Короча",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47232)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Чернянка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47233)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Новый Оскол",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47234)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Алексеевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47235)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Волоконовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47236)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Валуйки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47237)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Вейделевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47238)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Ровеньки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47241)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Губкин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47242)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Прохоровка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47243)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Ивня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47244)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Строитель",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47245)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Ракитное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47246)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Борисовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47247)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Красногвардейское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47248)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Шебекино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4725)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Старый Оскол",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47261)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Грайворон",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47262)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Красное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47263)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Белгородская область",
+                city: "Красная Яруга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(473)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Воронеж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47340)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Рамонь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Новая Усмань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Каширское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47343)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Верхняя Хава",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Панино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Эртиль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47346)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Анна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Терновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47348)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Грибановский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47350)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Бобров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47352)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Таловая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47353)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Новохоперск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47354)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Борисоглебск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47355)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Верхний Мамон",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47356)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Воробьёвка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47357)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Каменка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47361)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Бутурлиновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47362)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Павловск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47363)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Калач",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47364)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Нововоронеж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47365)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Петропавловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47366)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Богучар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47367)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Кантемировка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47370)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Нижнедевицк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47371)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Хохольский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47372)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: [ "Семилуки", "Семилукский район" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47374)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Репьевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47375)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Острогожск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47376)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Поворино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47391)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Лиски",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47394)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Подгоренский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47395)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Ольховатка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47396)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Воронежская область",
+                city: "Россошь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(474)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4742)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Липецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47461)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Грязи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47462)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Добринка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47463)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Доброе",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47464)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Лев Толстой",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47465)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Данков",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47466)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Лебедянь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47467)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Елец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47468)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Долгоруково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47469)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Красное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47471)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Задонск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47472)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Усмань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47473)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Волово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47474)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Тербуны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47475)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Чаплыгин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47476)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Становое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47477)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Хлевное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47478)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Липецкая область",
+                city: "Измалково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(475)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4752)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Тамбов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47531)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Рассказово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47532)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Сосновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47533)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Моршанск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47534)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Бондари",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47535)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Жердевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47536)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Дмитриевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47537)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Кирсанов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47541)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Котовск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47542)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Мордово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47543)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Староюрьево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47544)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Петровское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47545)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Мичуринск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47546)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Мучкапский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47548)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Первомайский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47551)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Гавриловка Вторая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47552)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Знаменка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47553)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Инжавино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47554)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Пичаево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47555)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Ржакса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47556)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Сатинка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47557)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Токарёвка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47558)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Уварово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(47559)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тамбовская область",
+                city: "Умёт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(481)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4812)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Смоленск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48130)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Сычевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48131)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Вязьма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Велиж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48133)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Шумячи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48134)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Рославль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Гагарин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Тёмкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Угра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Новодугино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48139)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Холм-Жирковский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Хиславичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Рудня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Сафоново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Ярцево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Дорогобуж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Красный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Ельня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Демидов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Монастырщина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Починок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Десногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Ершичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48165)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Глинка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48166)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Духовщина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48167)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Смоленская область",
+                city: "Кардымово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(482)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4822)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Тверь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48230)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Пено",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48231)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Бежецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48232)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Ржев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48233)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Вышний Волочек",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48234)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Кашин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48235)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Осташков",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48236)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Кимры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48237)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Красный Холм",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48238)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Бологое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48239)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Фирово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48242)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Конаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48244)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Рамешки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48246)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Сонково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48249)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Калязин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48250)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Белый",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48251)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Торжок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48253)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Максатиха",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48255)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Удомля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48257)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Кувшиново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48258)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Оленино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48261)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Лихославль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48262)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Зубцов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48263)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Старица",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48264)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Весьегонск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48265)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Западная Двина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48266)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Нелидово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48267)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Андреаполь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48268)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Торопец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48269)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Селижарово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48271)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Лесное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48272)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Сандово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48273)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Жарковский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48274)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Кесова Гора",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48275)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Молоково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48276)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тверская область",
+                city: "Спирово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(483)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4832)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: [ "Брянск", "Сельцо", "Белые Берега" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48330)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Сураж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48331)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Рогнедино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48332)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Дубровка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48333)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: [ "Дятьково", "Фокино" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48334)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Жуковка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48335)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Карачев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48336)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Клинцы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48338)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Клетня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48339)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Мглин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48340)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Гордеевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Выгоничи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Навля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48343)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Новозыбков",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Жирятино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Почеп",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48346)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Красная Гора",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Климово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48348)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Стародуб",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48349)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Погар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48351)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Унеча",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48352)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Трубчевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48353)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Суземка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48354)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Локоть",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48355)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Комаричи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48356)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Севск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48358)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Брянская область",
+                city: "Злынка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(484)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4842)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Калуга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48431)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Малоярославец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48432)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Жуков",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48433)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Медынь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48434)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Кондрово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48435)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Таруса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48436)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Юхнов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48437)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Ферзиково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48438)2-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Балабаново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48438)4-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Боровск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48438)6-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Балабаново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48439)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Обнинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48441)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Перемышль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48442)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Козельск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48443)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Ульяново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48444)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Людиново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48445)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Жиздра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48446)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Мещовск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48447)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Думиничи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48448)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Бабынино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48449)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Износки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48451)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Сухиничи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48452)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Мосальск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48453)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Хвастовичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48454)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Барятино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48455)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Спас-Деменск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48456)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Киров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48457)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калужская область",
+                city: "Бетлица",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(485)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4852)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Ярославль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48531)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Некрасовское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48532)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Углич",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48533)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Тутаев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48534)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Гаврилов Ям",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48535)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Переславль-Залесский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48536)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Ростов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48538)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Данилов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48539)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Борисоглебский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48542)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Большое Село",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48543)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Любим",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48544)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Мышкин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48545)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Брейтово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48546)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Пошехонье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48547)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Новый Некоуз",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48549)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Пречистое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4855)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ярославская область",
+                city: "Рыбинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(486)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4862)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: [ "Орёл", "Орловский район" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48640)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Болхов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48642)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Хотынец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48643)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Кромы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48644)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Шаблыкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48645)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Змиевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48646)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Мценск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48647)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Нарышкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48648)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Залегощь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48649)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Дмитровск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48661)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "",
+                operator: "МТС",
+                desc: "мобильные телефоны с зоновыми номерами"
+            }, {
+                mask: "+7(48662)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Знаменское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48663)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Красная Заря",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48664)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Покровское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48665)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Сосково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48666)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Тросна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48667)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Корсаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48672)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Долгое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48673)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Новосиль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48674)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Колпны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48675)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Глазуновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48676)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Верховье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48677)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Ливны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48678)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Хомутово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48679)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Орловская область",
+                city: "Малоархангельск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(487)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4872)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Тула",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48731)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Узловая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48732)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Дубна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48733)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Арсеньево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48734)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Заокский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48735)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Кимовск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48736)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Одоев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48741)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Ефремов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48742)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Белев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48743)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Куркино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48744)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Архангельское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48745)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Венев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48746)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Донской",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48751)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Щекино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48752)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Плавск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48753)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Алексин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48754)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Киреевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48755)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Тёплое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48756)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Чернь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48761)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Богородицк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48762)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Новомосковск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48763)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Суворов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48766)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Ясногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48767)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Ленинский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(48768)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Тульская область",
+                city: "Волово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(491)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4912)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: [ "Рязань", "Солотча" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49130)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Михайлов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49131)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Касимов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Ряжск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49133)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Сасово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Спасск-Рязанский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Шилово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Рыбное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Чучково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49139)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Кадом",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Новомичуринск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Спас-Клепики",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Кораблино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Ермишь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Пителино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Путятино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Шацк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Сараи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Старожилово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Сапожок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Захарово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Ухолово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Пронск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Скопин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49157)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Милославское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49158)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Рязанская область",
+                city: "Александро-Невский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(492)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4922)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Владимир",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49231)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Суздаль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49232)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Ковров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49233)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Вязники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49234)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Муром",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49235)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Судогда",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49236)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Красная Горбатка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49237)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Киржач",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49238)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Гороховец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49241)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Гусь-Хрустальный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49242)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Собинка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49243)2-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Петушки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49243)6-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Покров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49244)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Александров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49245)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Кольчугино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49246)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Юрьев-Польский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49247)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Меленки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49248)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Камешково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49254)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Владимирская область",
+                city: "Радужный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(493)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4932)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Иваново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49331)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Кинешма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49333)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Заволжск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49334)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Палех",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49336)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Родники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49337)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Юрьевец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49339)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Приволжск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Фурманов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49343)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Тейково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Лух",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Пучеж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49346)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Пестяки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Южа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49349)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Верхний Ландех",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49351)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Шуя",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49352)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Комсомольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49353)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Ильинское-Хованское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49354)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Вичуга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49355)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Гаврилов Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49356)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Савино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49357)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ивановская область",
+                city: "Лежнево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(494)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(4942)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Кострома",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49430)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Антропово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49431)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Нерехта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49432)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Красное-на-Волге",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49433)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Судиславль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49434)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Сусанино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49435)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Буй",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49436)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Солигалич",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49437)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Галич",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49438)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Островское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49439)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Павино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49440)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Парфеньево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49441)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Чухлома",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49442)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Кадый",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49443)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Кологрив",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49444)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Нея",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49445)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Макарьев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49446)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Мантурово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49447)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Георгиевское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49448)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Поназырево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49449)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Шарья",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49450)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Вохма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49451)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Боговарово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49452)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Пыщуг",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(49453)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Костромская область",
+                city: "Волгореченск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(495)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(495)323-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Аэропорт Домодедово",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)323-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Аэропорт Домодедово",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)338-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Мосрентген",
+                operator: "МГТС",
+                desc: "часть номеров АТС"
+            }, {
+                mask: "+7(495)339-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Мосрентген",
+                operator: "МГТС",
+                desc: "часть номеров АТС"
+            }, {
+                mask: "+7(495)355-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Развилка",
+                operator: "ОАО «Газпромсвязь»",
+                desc: ""
+            }, {
+                mask: "+7(495)408-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Долгопрудный",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)439-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Московский",
+                operator: "ЦентрТелеком",
+                desc: "часть номеров АТС"
+            }, {
+                mask: "+7(495)50#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Люберцы",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)500-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)51#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Королёв", "Юбилейный" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)52#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Балашиха", "Железнодорожный", "Реутов" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)541-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)542-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)543-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)544-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)545-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)546-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: "Ростелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)546-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Домодедово",
+                operator: "Ростелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)546-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Видное", "Развилка" ],
+                operator: "Ростелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)546-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Домодедово",
+                operator: "Ростелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-0#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Поселок совхоза им. Ленина",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Поселок совхоза им. Ленина", "Поселок Володарского", "Горки Ленинские" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Поселок Володарского", "Горки Ленинские" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)548-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Видное",
+                operator: "ЦентрТелеком",
+                desc: "промзона"
+            }, {
+                mask: "+7(495)549-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Видное", "Московский", "пос. Ново-Дрожжино", "пос. Измайлово", "пос. Булатниково", "пос. Дубровский", "пос. Института Садоводства" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)55#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Люберцы",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)552-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Лыткарино",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)555-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Лыткарино",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)56#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Красногорск",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)57#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Королёв", "Мытищи", "Юбилейный" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)573-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Химки",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)576-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Долгопрудный",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)577-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Лобня",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)578-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Лобня", "Международный аэропорт «Шереметьево»" ],
+                operator: "Порт-Телеком",
+                desc: ""
+            }, {
+                mask: "+7(495)579-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: [ "Долгопрудный", "Лобня" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(495)58#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Химки",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)585-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)589-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Мегафон", "Центральный Телеграф" ],
+                desc: ""
+            }, {
+                mask: "+7(495)59#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Одинцово",
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(495)597-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва и ближнее Подмосковье",
+                city: "Москва",
+                operator: [ "Центральный Телеграф", "ЦентрТелеком" ],
+                desc: ""
+            }, {
+                mask: "+7(496)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)20#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Талдом",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)21#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Дубна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)22#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Дмитров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)24#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Клин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)25#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Щёлковский район",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)26#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Солнечногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)27#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Руза",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)28#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Лотошино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)30#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "ЗАО Калита-Телеком",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)31#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Истра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)34#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Наро-Фоминск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)36#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Волоколамск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)37#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Шаховская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)38#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Можайск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)40#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Егорьевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)41#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Орехово-Зуево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)42#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Орехово-Зуево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)43#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Павловский Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)44#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Воскресенск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)45#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Шатура",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)46#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Раменское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)51#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Ногинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)52#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Черноголовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)53#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Пушкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)54#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Сергиев Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)55#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Сергиев Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)56#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Щелково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)57#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Электросталь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)61#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Коломна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)63#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Луховицы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)64#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Ступино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)66#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Зарайск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)67#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Серебряные Пруды",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)69#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Кашира",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)70#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Озеры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)72#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Чехов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)73#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Серпухов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)75#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Подольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)76#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Подольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)77#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Серпухов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(496)79#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Московская область",
+                city: "Домодедово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)48#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Жуковский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)54#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: [ "Видное", "Ленинский район" ],
+                operator: "ЦентрТелеком",
+                desc: ""
+            }, {
+                mask: "+7(498)617-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: [ "Газопровод", "Коммунарка" ],
+                operator: "ЗАО «Газтелеком»",
+                desc: "Ленинский район"
+            }, {
+                mask: "+7(498)657-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Развилка",
+                operator: "ООО «Газпром связь»",
+                desc: "Ленинский район"
+            }, {
+                mask: "+7(498)664-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Железнодорожный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)68#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Лобня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)713-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Долгопрудный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(498)744-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Лесопарковый защитный пояс Москвы",
+                city: "Долгопрудный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(499)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(499)39#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва",
+                city: "Москва",
+                operator: "МегаФон",
+                desc: ""
+            }, {
+                mask: "+7(499)50#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва",
+                city: "Москва",
+                operator: "Центральный Телеграф",
+                desc: ""
+            }, {
+                mask: "+7(499)755-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Москва",
+                city: "Москва",
+                operator: "МегаФон",
+                desc: ""
+            }, {
+                mask: "+7(811)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8112)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Псков",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81131)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Гдов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Струги Красные",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81133)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Плюсса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81134)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Порхов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Дно",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Дедовичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Красногородск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Опочка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81139)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Локня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Себеж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Бежаницы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Пустошка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Новоржев",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Новосокольники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Палкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Пушкинские Горы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Пыталово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Печоры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Кунья",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81150)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Усвяты",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Невель",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Остров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Псковская область",
+                city: "Великие Луки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(812)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Санкт-Петербург",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(813)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81361)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Тосно",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81362)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Кировск", "Шлиссельбург" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81363)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Волхов", "Новая Ладога", "Сясьстрой" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81364)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Лодейное Поле",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81365)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Подпорожье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81366)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Бокситогорск", "Пикалёво" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81367)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Тихвин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81368)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Кириши", "Будогощь" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81369)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Сосновый Бор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81370)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Всеволожск", "Токсово" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81371)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Гатчина", "Вырица", "Коммунар" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81372)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Луга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81373)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Волосово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81374)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Сланцы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81375)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Кингисепп", "Ивангород" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81376)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Ломоносов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81378)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: [ "Выборг", "Высоцк", "Приморск", "Светогорск" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81379)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ленинградская область",
+                city: "Приозерск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(814)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8142)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Петрозаводск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Сортавала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Вяртсиля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Хелюля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Рускеала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пуйккола",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Хаапалампи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кааламо",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81430)3-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Заозёрный", "Ламберг", "Сортавала", "Хюмпеля" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Сегежа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-0#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кочкома",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Олений", "Пертозеро", "Черный Порог" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-2#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Валдай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Волдозеро", "Идель", "Кяргозеро", "Попов Порог" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Каменный Бор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Полга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81431)3-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Надвоицы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81433)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Питкяранта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81433)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Ляскеля", "Рауталахти", "Харлу", "Хийденсельга" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81433)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Ряймяля", "Салми" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81433)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Импилахти",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81433)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Леппясилта", "Уукса" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Медвежьегорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)3-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Толвуя",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)3-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Шуньга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)3-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Великая Губа", "Великая Нива", "Кижи", "Космозеро", "Ламбасручей", "Сенная Губа" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)3-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Кумса", "Лавас Губа", "Лумбуши", "Чебино" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)3-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Волозеро", "Габсельга", "Сосновка", "Челмужи" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)4-2#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Огорелыши", "Сергиево" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)4-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Повенец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)4-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пиндуши",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81434)4-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Паданы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Олонец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Ильинский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Верхний Олонец", "Ковера", "Речная Сельга", "Сяндеба", "Тулокса" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Михайловское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Алексала", "Мегрега", "Рыпушкалица", "Тукса" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Видлица",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Коткозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81436)2-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Куйтежа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Беломорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-0#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Сумский Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Золотец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Колежма", "Лапино", "Лехта", "Маленьга", "Новое Машозеро", "Нюхча", "Тунгуза", "Хвойный", "Шуерецкое" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Сосновец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Лесобиржа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Вирандозеро", "Летнереченский" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81437)3-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пушной",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Лоухи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кестеньга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Софпорог", "Тунгозеро" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)2-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пяозерский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)3-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Амбарный", "Плотина", "Сосновый", "Энгозеро" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)4-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Чупа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)4-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Чкаловский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81439)45#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Тэдино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81450)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Лахденпохья",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81450)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Ихала", "Мийнала", "Яккима" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81450)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Куркиёки", "Хийтола" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81450)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Элисенваара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кондопога",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кедрозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Гирвас", "Тивдия", "Эльмус" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-2#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Спасская Губа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Кивач", "Новинка" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Кяпесельга", "Нелгомозеро" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кончезеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Берёзовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81451)3-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Суна", "Янишполе" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пудож",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Бочилово", "Каршево", "Колово", "Колодозеро", "Семёново" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Водла", "Кубово", "Онежский", "Рагнукса" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Кривцы", "Приречный" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Авдеево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Подпорожье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Шала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81452)2-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пяльма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81454)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Калевала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81454)5-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кепа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81454)5-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Юшкозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81454)5-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Войница", "Куусиниеми", "Луусалми" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Муезерский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Тикша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Реболы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Ригозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Волома", "Пенинга" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Суккозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Ледмозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81455)2-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Лендеры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Пряжа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Вилла Гора", "Соддер", "Сяпся", "Эссойла" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Ведлозеро", "Кинелахта", "Койвусельга", "Колатсельга", "Савиново" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Чална",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Матросы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Верхние Важины",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Крошнозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81456)2-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Святозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Суоярви",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Лахколамби",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Поросозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Найстеньярви",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Вегарус", "Суоёки", "Тойвола", "Хаутоваара" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Вешкелица", "Лоймола", "Пийтсиёки" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)2-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Леппясюрья", "Райконкоски", "Суйстамо" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81457)3-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Леппяниеми",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кемь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Калгалакша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-2#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Панозеро", "Поньгома" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-4#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: [ "Авнепорог", "Кривой Порог" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Рабочеостровск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-6#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Шомба",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-7#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Кузема",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-8#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Баб-Губа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81458)3-9#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Сокол",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81459)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Костомукша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81459)9-3#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Контокки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81459)9-5#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Карелия",
+                city: "Вокнаволок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(815)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8152)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Мурманск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81530)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Снежногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81531)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Кировск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81532)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Полярные Зори",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81533)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Кандалакша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81535)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Ковдор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81536)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Мончегорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81537)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Североморск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81538)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Ловозеро",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81539)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Гаджиево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81551)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Полярный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81552)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Оленегорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81553)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Кола",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81554)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: [ "Заполярный", "Никель" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81555)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Апатиты",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81556)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Заозерск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81558)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Островной",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81559)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мурманская область",
+                city: "Умба",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(816)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8162)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Великий Новгород",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81650)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Парфино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81651)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Демянск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81652)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Старая Русса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81653)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Мошенское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81654)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Холм",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81655)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Сольцы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81656)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Шимск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81657)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Окуловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81658)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Поддорье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81659)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Крестцы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81660)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Малая Вишера",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81661)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Батецкий",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81662)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Волот",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81663)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Марёво",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81664)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Боровичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81665)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Чудово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81666)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Валдай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81667)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Хвойная",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81668)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Любытино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81669)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Новгородская область",
+                city: "Пестово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(817)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8172)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Вологда",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81732)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Харовск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81733)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Сокол",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81737)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Устюжна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81738)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Великий Устюг",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81739)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Тотьма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81740)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Кичменгский Городок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81741)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Чагода",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81742)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Кадуй",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81743)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Бабаево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81744)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Вожега",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81745)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Село имени Бабушкина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81746)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Вытегра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81747)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Нюксеница",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81748)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Тарногский Городок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81749)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Шуйское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81751)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Шексна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81752)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Сямжа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81753)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Устье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81754)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Никольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81755)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Грязовец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81756)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Белозерск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81757)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Кириллов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81758)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Липин Бор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81759)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Верховажье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(818)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Архангельск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81830)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Холмогоры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81831)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Березник",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81832)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Плесецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81833)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Лешуконское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81834)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Мирный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81835)9-0#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Соловецкий",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81836)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Вельск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81837)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Котлас",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81838)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Няндома",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81839)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Онега",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81840)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Красноборск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81841)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Каргополь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81842)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Северодвинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81843)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Ильинско-Подомское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81848)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Мезень",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81850)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Коряжма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81851)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Шенкурск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81852)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Новодвинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81853)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Нарьян-Мар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81854)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Верхняя Тойма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81855)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Октябрьский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81856)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Карпогоры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81858)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Коноша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(81859)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: [ "Архангельская область", "Ненецкий автономный округ" ],
+                city: "Яренск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(820)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8202)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Вологодская область",
+                city: "Череповец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(821)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8212)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Сыктывкар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82130)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Выльгорт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82131)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Визинга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Койгородок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82133)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Объячево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82134)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Айкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Усогорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Корткерос",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Усть-Кулом",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Троицко-Печорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82139)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Емва",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Ижма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Усть-Цильма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Печора",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Усинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Инта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Вуктыл",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Сосногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(82151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Воркута",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8216)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Коми",
+                city: "Ухта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(831)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Нижний Новгород",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8313)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Дзержинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83130)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Саров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83134)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Дивеево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Володарск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Сокольское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Большое Болдино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83139)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Первомайск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Вад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Балахна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Кстово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Арзамас",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Перевоз",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Лысково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83150)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Ветлуга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Тоншаево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Шахунья",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Тонкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Урень",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Шаранга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Красные Баки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83157)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Ковернино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83158)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Варнавино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83159)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Бор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83160)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Чкаловск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83161)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Городец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83162)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Семёнов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83163)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Воскресенское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83164)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Воротынец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83165)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Спасское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83166)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Княгинино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83167)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Большое Мурашкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83168)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Дальнее Константиново",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83169)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Заволжье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83170)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Богородск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83171)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: [ "Павлово", "Ворсма" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83172)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Бутурлино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83173)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Вача",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83174)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Сосновское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83175)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Навашино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83176)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Кулебаки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83177)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Выкса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83178)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Вознесенское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83179)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Ардатов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83190)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Шатки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83191)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Сергач",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83192)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Пильна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83193)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Сеченово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83194)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Уразовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83195)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Гагино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83196)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Лукоянов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83197)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Нижегородская область",
+                city: "Починки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(833)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8332)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Киров",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83330)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Арбаж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83331)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Афанасьево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83332)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Фаленки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83333)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Богородское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83334)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Вятские Поляны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83335)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Верхошижемье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83336)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Даровской",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83337)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Зуевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83338)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Кильмезь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83339)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Кирс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83340)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Тужа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Кикнур",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Котельнич",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83343)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Кумены",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Лебяжье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Ленинское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83346)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Луза",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Малмыж",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83348)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Мураши",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83349)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Нагорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83350)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Нема",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83351)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Подосиновец",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83352)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Омутнинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83353)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Опарино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83354)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Оричи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83355)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Пижанка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83357)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Санчурск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83358)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Свеча",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83359)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Уни",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83361)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Кирово-Чепецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83362)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Слободской",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83363)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Уржум",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83364)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Белая Холуница",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83365)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Орлов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83366)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Юрья",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83367)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Яранск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83368)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Нолинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83369)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Суна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83375)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кировская область",
+                city: "Советск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(834)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8342)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Саранск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83431)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Ардатов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83432)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Старое Шайгово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83433)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Кемля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83434)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Атяшево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83436)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Большие Березники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83437)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Чамзинка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83438)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Ромоданово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83439)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Кочкурово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83441)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Лямбирь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83442)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Большое Игнатово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83443)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Краснослободск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83444)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Ельники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83445)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Темников",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83446)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Теньгушево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83447)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Дубенки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83448)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Кадошкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83449)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Инсар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83451)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Рузаевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83453)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Ковылкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83454)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Атюрьево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83456)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Торбеево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83457)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Явас",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83458)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Мордовия",
+                city: "Зубова Поляна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(835)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8352)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Чебоксары",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8352)7#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Новочебоксарск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83530)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Красноармейское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83531)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Алатырь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83532)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Батырево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83533)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Канаш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83534)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Козловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83535)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Аликово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83536)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Шумерля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83537)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Вурнары",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83538)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Ибреси",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83539)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Комсомольское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83540)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Кугеси",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83541)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Моргауши",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83542)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Мариинский Посад",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83543)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Порецкое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83544)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Урмары",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83545)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Цивильск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83546)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Шемурша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83547)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Ядрин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83548)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Янтиково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83549)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Яльчики",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83551)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чувашия",
+                city: "Красные Четаи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(836)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8362)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Йошкар-Ола",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83631)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Волжск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83632)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Козьмодемьянск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83633)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Сернур",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83634)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Мари-Турек",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83635)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Морки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83636)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Новый Торъял",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83637)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Куженер",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83638)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Советский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83639)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Параньга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83641)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Оршанка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83643)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Килемары",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83644)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Юрино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(83645)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Марий Эл",
+                city: "Звенигово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)22#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Сухум",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)23#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Гагра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)24#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Гудаута",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)25#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Очамчыра",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)26#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Ткуарчал",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)27#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Гулрыпш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(840)28#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Абхазия",
+                city: "Гал",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(841)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8412)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Пенза",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Бессоновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Беково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Вадинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Башмаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Исса",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Русский Камешкир",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Колышлей",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Кондоль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Лопатино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84150)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Мокшан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Спасск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Пачелма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Белинский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Нижний Ломов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Земетчино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Каменка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84157)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Кузнецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84158)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Городище",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84159)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Шемышейка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84161)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Лунино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84162)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Малая Сердоба",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84163)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Наровчат",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84164)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Неверкино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84165)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Никольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84167)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Сердобск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84168)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Сосновоборск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84169)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Пензенская область",
+                city: "Тамала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(842)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8422)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Ульяновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84230)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Старая Майна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84231)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Чердаклы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84232)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Новая Малыкла",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84233)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Сенгилей",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84234)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Тереньга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84235)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Димитровград",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84237)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Кузоватово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84238)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Новоспасское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84239)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Радищево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84240)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Базарный Сызган",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84241)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Инза",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84242)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Сурское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84243)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Вешкайма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84244)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Майна",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84245)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Большое Нагаткино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84246)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Карсун",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84247)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Николаевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84248)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Павловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84249)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Старая Кулатка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84253)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Барыш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84254)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Ишеевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84255)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ульяновская область",
+                city: "Новоульяновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(843)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Казань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Алексеевское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Чистополь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Аксубаево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Нурлат",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84346)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Базарные Матаки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Болгар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84348)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Новошешминск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84360)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Тюлячи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84361)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Рыбная Слобода",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84362)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Богатые Сабы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84364)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Кукмор",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84365)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Высокая Гора",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84366)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Арск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84367)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Пестрецы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84368)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Балтаси",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84369)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Большая Атня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84370)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Большие Кайбицы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84371)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Зеленодольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84373)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Тетюши",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84374)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Буинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84375)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Старое Дрожжаное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84376)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Апастово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84377)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Камское Устье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84378)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Лаишево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84379)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Верхний Услон",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84396)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Черемшан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(844)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(844)2##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Волгоград",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(844)70#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Волгоград",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8443)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Волжский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84442)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Урюпинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84443)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Нехаевская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84444)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Новониколаевский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84445)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Преображенская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84446)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Алексеевская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84447)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Новоаннинский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84452)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Елань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84453)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Рудня",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84454)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Жирновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84455)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Котово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84456)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Ольховка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84457)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Камышин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84458)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Дубовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84461)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Даниловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84462)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Кумылженская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84463)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Михайловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84464)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Серафимович",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84465)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Фролово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84466)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Клетская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84467)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Иловля",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84468)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Городище",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84472)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Калач-на-Дону",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84473)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Суровикино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84474)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Чернышковский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84475)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Октябрьский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84476)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Котельниково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84477)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Светлый Яр",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84478)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Ленинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84479)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Средняя Ахтуба",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84492)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Палласовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84493)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Старая Полтавка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84494)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Николаевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84495)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Волгоградская область",
+                city: "Быково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(845)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8452)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Саратов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)2#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Балаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)3#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Балаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)4#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Балаково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)5#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Энгельс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)7#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Энгельс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8453)9#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Энгельс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84540)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Ртищево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84542)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Аркадак",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84543)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Турки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84544)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Романовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84545)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Балашов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84548)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Самойловка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84549)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Калининск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84550)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Красноармейск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84551)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Лысые Горы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84552)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Аткарск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84554)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Екатериновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84555)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Петровск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84557)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Новые Бурасы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84558)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Татищево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84560)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Красный Кут",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84561)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Питерка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84562)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Новоузенск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84563)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Дергачи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84564)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Ершов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84565)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Мокроус",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84566)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Степное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84567)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Маркс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84568)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Воскресенское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84573)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Духовницкое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84574)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Пугачёв",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84575)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Перелюб",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84576)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Озинки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84577)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Горный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84578)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Александров Гай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84579)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Ивантеевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84591)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Базарный Карабулак",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84592)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Балтай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84593)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Вольск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84595)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Хвалынск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84596)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Саратовская область",
+                city: "Ровное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)2##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)300-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)302-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)303-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)309-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)31#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)33#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)34#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)37#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(846)9##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Самара",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84630)5-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Волжский Утёс",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84635)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Новокуйбышевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84639)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Чапаевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8464)3#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Сызрань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8464)4#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Сызрань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8464)9#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Сызрань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84646)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Октябрьск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84647)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Приволжье",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84648)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Шигоны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84650)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Кошки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84651)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Челно-Вершины",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84652)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Шентала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84653)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Клявлино",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84654)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Исаклы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84655)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Сергиевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84656)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Похвистнево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84657)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Красный Яр",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84658)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Елховка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84660)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Кинель-Черкассы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84661)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Отрадный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84663)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Кинель",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84664)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Камышла",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84666)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Богатое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84667)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Борское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84670)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Нефтегорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84671)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Алексеевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84672)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Большая Черниговка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84673)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Большая Глушица",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84674)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Пестравка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84675)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Красноармейское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84676)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Безенчук",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84677)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Хворостянка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(847)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84722)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Элиста",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84731)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Городовиковск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84732)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Ики-Бурул",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84733)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Лагань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84734)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Малые Дербеты",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84735)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Кетченеры",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84736)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Приютное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84741)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Садовое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84742)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Троицкое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84743)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Комсомольский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84744)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Цаган Аман",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84745)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Яшалта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84746)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Яшкуль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84747)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Калмыкия",
+                city: "Большой Царын",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(848)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8482)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Тольятти",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(84862)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Самарская область",
+                city: "Жигулевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(851)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8512)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Астрахань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Знаменск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Ахтубинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Володарский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Енотаевка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Икряное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Камызяк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Красный Яр",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Лиман",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Харабали",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Чёрный Яр",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85171)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Нариманов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85172)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Астраханская область",
+                city: "Началово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(855)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8552)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Набережные Челны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8553)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Альметьевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85549)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Менделеевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8555)3#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Нижнекамск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8555)4#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Нижнекамск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85551)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Агрыз",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85552)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Актаныш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85555)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Мензелинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85556)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Муслюмово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85557)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Елабуга",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85558)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Заинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85559)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Сарманово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85563)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Мамадыш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85569)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Бавлы",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8557)2#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Набережные Челны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8557)3#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Набережные Челны",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85592)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Азнакаево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85593)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Уруссу",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85594)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Бугульма",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(85595)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Татарстан",
+                city: "Лениногорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(861)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Краснодар",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86130)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Тимашёвск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86131)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Крымск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Ейск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86133)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Анапа",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Усть-Лабинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86137)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Армавир",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86138)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Кропоткин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86140)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Успенское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86141)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Геленджик",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Кореновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Приморско-Ахтарск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86144)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Отрадная",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Ленинградская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Славянск-на-Кубани",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Курганинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Темрюк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86149)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Новопокровская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86150)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Абинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86151)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Старощербиновская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Апшеронск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86153)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Староминская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Белая Глина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Белореченск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Брюховецкая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86157)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Выселки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86158)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Тбилисская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86159)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Горячий Ключ",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86160)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Гулькевичи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86161)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Крыловская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86162)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Динская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86163)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Калининская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86164)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Каневская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86165)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Полтавская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86166)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Северская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86167)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Туапсе",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86168)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Кущёвская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86169)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Лабинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8617)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Новороссийск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86191)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Павловская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86192)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Мостовской",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86193)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Кавказская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86195)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Новокубанск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86196)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Тихорецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(862)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "",
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)2##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: [ "Аше", "Вардане", "Головинка", "Головинка", "Сочи", "Хоста" ],
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)23#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "",
+                operator: "МТС",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)24#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Адлер",
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)247-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Кудепста",
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)252-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: [ "Дагомыс", "Лоо" ],
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)27#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "Лазаревское",
+                operator: "",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(862)295-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Краснодарский край",
+                city: "",
+                operator: "МегаФон",
+                desc: "агломерация Большой Сочи"
+            }, {
+                mask: "+7(863)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(863)2##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Ростов-на-Дону",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(863)3##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Ростов-на-Дону",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8634)3#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Таганрог",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8634)43-1#-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Таганрог",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8634)6#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Таганрог",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86340)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Родионово-Несветайская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Матвеев-Курган",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Азов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Кагальницкая",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86347)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Покровское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86348)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Куйбышево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86349)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Чалтырь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8635)2#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Новочеркасск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86350)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Аксай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86351)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Усть-Донецкий",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86353)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Вёшенская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86354)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Батайск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86355)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Зверево",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86356)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Семикаракорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86357)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Багаевская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86358)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Весёлый",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86359)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Зерноград",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8636)2#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Шахты",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86360)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Каменоломни",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86361)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Гуково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86363)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Советская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86364)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Казанская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86365)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Каменск-Шахтинский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86367)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Красный Сулин",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86368)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Донецк",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86369)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Новошахтинск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86370)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Егорлыкская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86371)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Целина",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86372)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Сальск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86373)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Песчанокопское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86374)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Пролетарск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86375)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Орловский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86376)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Зимовники",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86377)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Дубовское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86378)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Заветное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86379)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Ремонтное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86382)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Боковская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86383)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Белая Калитва",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86384)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Морозовск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86385)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Миллерово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86386)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Тарасовский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86387)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Чертково",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86388)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Кашары",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86389)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Милютинская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8639)2#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Волгодонск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86391)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Цимлянск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86393)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Константиновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86394)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Романовская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86395)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Большая Мартыновка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86396)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Обливская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86397)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ростовская область",
+                city: "Тацинская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(865)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8652)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Ставрополь",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86540)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Грачёвка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86541)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Красногвардейское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86542)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Ипатово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86543)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Левокумское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86544)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Новоалександровск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86545)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Изобильный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86546)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Донское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86547)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Светлоград",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86548)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Новоселицкое",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86549)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Благодарный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86550)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Кочубеевское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86552)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Зеленокумск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86553)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Михайловск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86554)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Невинномысск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86555)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Дивное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86556)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Курсавка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86557)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Александровское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86558)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Нефтекумск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86559)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Буденновск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86560)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Арзгир",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86563)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Степное",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86565)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Летняя Ставка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(866)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8662)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Нальчик",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86630)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Чегем",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86631)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Прохладный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86632)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Терек",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86633)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Майский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86634)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Баксан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86635)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Нарткала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86636)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Кашхатау",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86637)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Залукокоаже",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86638)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Кабардино-Балкария",
+                city: "Тырныауз",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(867)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8672)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Владикавказ",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86731)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Алагир",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86732)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Ардон",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86733)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Дигора",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86734)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Чикола",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86735)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Эльхотово",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86736)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Моздок",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86737)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Беслан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86738)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Октябрьское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(86739)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Северная Осетия",
+                city: "Архонская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(871)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8712)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Грозный",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87132)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Знаменское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87134)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Ведено",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87135)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Шатой",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87136)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Шелковская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87142)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Ачхой-Мартан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87143)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Наурская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87145)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Урус-Мартан",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87146)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Шали",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87147)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Аргун",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87148)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Ножай-Юрт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87152)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Гудермес",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87154)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Серноводск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87155)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Курчалой",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87156)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: [ "Толстой-Юрт", "Старые Атаги" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87164)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Чеченская Республика",
+                city: "Итум-Кале",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(872)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8722)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Махачкала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87230)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Сергокала",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87231)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Хасавюрт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87232)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Карабудахкент",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87233)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Хунзах",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87234)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Кизилюрт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87235)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Магарамкент",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87236)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Касумкент",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87237)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Буйнакск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87238)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Маджалис",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87239)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Кизляр",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87240)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Дербент",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87242)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Новолакское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87243)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: [ "Тпиг", "Агул" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87244)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Хив",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87245)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Избербаш",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87246)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Каспийск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87247)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Бабаюрт",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87248)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Новокаякент",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87249)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Хучни",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87252)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Леваши",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87254)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Уркарах",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87255)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Гергебиль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87256)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Терекли-Мектеб",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87257)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Унцукуль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87258)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Гуниб",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87259)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Хебда",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87260)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Акуша",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87261)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Тарумовка",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87262)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Курах",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87263)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Ахты",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87264)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Рутул",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87265)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Тлярата",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87266)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Цуриб",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87267)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Кумух",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87268)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Вачи",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87271)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Ботлих",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87272)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Мехельта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87273)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Агвали",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87274)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Бежта",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87275)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Дагестанские Огни",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87276)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Южно-Сухокумск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87279)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Дагестан",
+                city: "Дылым",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(873)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8732)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Назрань",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87341)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Орджоникидзевская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87342)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Малгобек",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87343)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Джейрах",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87344)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Карабулак",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87345)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Ингушетия",
+                city: "Магас",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(877)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8772)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Майкоп",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87770)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Кошехабль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87771)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Тахтамукай",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87772)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Адыгейск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87773)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Хакуринохабль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87777)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Тульский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87778)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Красногвардейское",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87779)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Адыгея",
+                city: "Гиагинская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(878)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8782)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Черкесск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87870)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Адыге-Хабль",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87872)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: [ "Теберда", "Домбай" ],
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87873)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Хабез",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87874)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Кавказский",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87875)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Усть-Джегута",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87876)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Преградная",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87877)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Учкекен",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87878)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Зеленчукская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87879)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Республика Карачаево-Черкесия",
+                city: "Карачаевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(879)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87922)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Минеральные Воды",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(8793)##-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Пятигорск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87932)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Железноводск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87934)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Ессентуки",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87935)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Лермонтов",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87937)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Кисловодск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87938)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Новопавловск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87951)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Георгиевск",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87961)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Ессентукская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(87964)#-##-##",
+                cc: "RU",
+                cd: "Russia",
+                region: "Ставропольский край",
+                city: "Курская",
+                operator: "",
+                desc: ""
+            }, {
+                mask: "+7(9##)###-##-##",
+                cc: "RU",
+                cd: "Russia",
+                type: "mobile"
+            } ]
+        }
+    }), Inputmask;
+});
+=======
     
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80

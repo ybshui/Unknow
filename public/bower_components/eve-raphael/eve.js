@@ -205,7 +205,11 @@
      - name (array) if you don’t want to use separators, you can use array of strings
      - f (function) event handler function
      **
+<<<<<<< HEAD
+     = (function) returned function accepts a single numeric parameter that represents z-index of the handler. It is an optional feature and only used when you need to ensure that some subset of handlers will be invoked in a given order, despite of the order of assignment. 
+=======
      = (function) returned function accepts a single numeric parameter that represents z-articles of the handler. It is an optional feature and only used when you need to ensure that some subset of handlers will be invoked in a given order, despite of the order of assignment. 
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
      > Example:
      | eve.on("mouse", eatIt)(2);
      | eve.on("mouse", scream);
@@ -213,7 +217,11 @@
      * This will ensure that `catchIt` function will be called before `eatIt`.
      *
      * If you want to put your handler before non-indexed handlers, specify a negative value.
+<<<<<<< HEAD
+     * Note: I assume most of the time you don’t need to worry about z-index, but it’s nice to have this feature “just in case”.
+=======
      * Note: I assume most of the time you don’t need to worry about z-articles, but it’s nice to have this feature “just in case”.
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
     \*/
     eve.on = function (name, f) {
         if (typeof f != "function") {

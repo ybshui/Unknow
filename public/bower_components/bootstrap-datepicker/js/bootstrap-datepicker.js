@@ -225,7 +225,11 @@
 			}
 			o.language = lang;
 
+<<<<<<< HEAD
+			// Retrieve view index from any aliases
+=======
 			// Retrieve view articles from any aliases
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 			o.startView = this._resolveViewName(o.startView);
 			o.minViewMode = this._resolveViewName(o.minViewMode);
 			o.maxViewMode = this._resolveViewName(o.maxViewMode);

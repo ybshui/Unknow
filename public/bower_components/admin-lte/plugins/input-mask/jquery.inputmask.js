@@ -1011,7 +1011,11 @@
                                     }
                                 });
                             }
+<<<<<<< HEAD
+                            activeMasksetIndex = initialIndex; //restore index
+=======
                             activeMasksetIndex = initialIndex; //restore articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
                         }
 
                         var radixPosition = getActiveBuffer().join('').indexOf(opts.radixPoint);

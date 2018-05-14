@@ -938,7 +938,11 @@
 				this.options.customTooltips(false);
 			}
 			if (ChartElements.length > 0){
+<<<<<<< HEAD
+				// If we have multiple datasets, show a MultiTooltip for all of the data points at that index
+=======
 				// If we have multiple datasets, show a MultiTooltip for all of the data points at that articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 				if (this.datasets && this.datasets.length > 1) {
 					var dataArray,
 						dataIndex;
@@ -954,7 +958,11 @@
 						tooltipColors = [],
 						medianPosition = (function(index) {
 
+<<<<<<< HEAD
+							// Get all the points at that particular index
+=======
 							// Get all the points at that particular articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 							var Elements = [],
 								dataCollection,
 								xPositions = [],
@@ -1406,7 +1414,11 @@
 			var baseLineHeight = this.y - (this.height/2) + this.yPadding,
 				afterTitleIndex = index-1;
 
+<<<<<<< HEAD
+			//If the index is zero, we're getting the title
+=======
 			//If the articles is zero, we're getting the title
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 			if (index === 0){
 				return baseLineHeight + this.titleFontSize/2;
 			} else{
@@ -1439,7 +1451,11 @@
 					ctx.fillText(label,this.x + this.xPadding + this.fontSize + 3, this.getLineHeight(index + 1));
 
 					//A bit gnarly, but clearing this rectangle breaks when using explorercanvas (clears whole canvas)
+<<<<<<< HEAD
+					//ctx.clearRect(this.x + this.xPadding, this.getLineHeight(index + 1) - this.fontSize/2, this.fontSize, this.fontSize);
+=======
 					//ctx.clearRect(this.x + this.xPadding, this.getLineHeight(articles + 1) - this.fontSize/2, this.fontSize, this.fontSize);
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 					//Instead we'll make a white filled block to put the legendColour palette over.
 
 					ctx.fillStyle = this.legendColorBackground;
@@ -1763,11 +1779,19 @@
 			 * Solution:
 			 *
 			 * We assume the radius of the polygon is half the size of the canvas at first
+<<<<<<< HEAD
+			 * at each index we check if the text overlaps.
+			 *
+			 * Where it does, we store that angle and that index.
+			 *
+			 * After finding the largest index and angle we calculate how much we need to remove
+=======
 			 * at each articles we check if the text overlaps.
 			 *
 			 * Where it does, we store that angle and that articles.
 			 *
 			 * After finding the largest articles and angle we calculate how much we need to remove
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 			 * from the shape radius to move the point inwards by that x.
 			 *
 			 * We average the left and right distances to get the maximum shape radius that can fit in the box
@@ -1807,7 +1831,11 @@
 				pointPosition = this.getPointPosition(i, largestPossibleRadius);
 				textWidth = this.ctx.measureText(template(this.templateString, { value: this.labels[i] })).width + 5;
 				if (i === 0 || i === this.valuesCount/2){
+<<<<<<< HEAD
+					// If we're at index zero, or exactly the middle, we're at exactly the top/bottom
+=======
 					// If we're at articles zero, or exactly the middle, we're at exactly the top/bottom
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 					// of the radar chart, so text will be aligned centrally, so we'll half it and compare
 					// w/left and right text sizes
 					halfTextWidth = textWidth/2;

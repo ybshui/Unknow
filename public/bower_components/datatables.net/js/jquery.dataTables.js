@@ -476,8 +476,13 @@
 		 *    a TR node then the data source for the whole row will be returned. If given as a
 		 *    TD/TH cell node then iCol will be automatically calculated and the data for the
 		 *    cell returned. If given as an integer, then this is treated as the aoData internal
+<<<<<<< HEAD
+		 *    data index for the row (see fnGetPosition) and the data for that row used.
+		 *  @param {int} [col] Optional column index that you want the data of.
+=======
 		 *    data articles for the row (see fnGetPosition) and the data for that row used.
 		 *  @param {int} [col] Optional column articles that you want the data of.
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *  @returns {array|object|string} If mRow is undefined, then the data for all rows is
 		 *    returned. If mRow is defined, just data for that row, and is iCol is
 		 *    defined, only data for the designated cell is returned.
@@ -552,11 +557,19 @@
 		
 		/**
 		 * Get the array indexes of a particular cell from it's DOM element
+<<<<<<< HEAD
+		 * and column index including hidden columns
+		 *  @param {node} node this can either be a TR, TD or TH in the table's body
+		 *  @returns {int} If nNode is given as a TR, then a single index is returned, or
+		 *    if given as a cell, an array of [row index, column index (visible),
+		 *    column index (all)] is given.
+=======
 		 * and column articles including hidden columns
 		 *  @param {node} node this can either be a TR, TD or TH in the table's body
 		 *  @returns {int} If nNode is given as a TR, then a single articles is returned, or
 		 *    if given as a cell, an array of [row articles, column articles (visible),
 		 *    column articles (all)] is given.
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *  @dtopt API
 		 *  @deprecated Since v1.10
 		 *
@@ -744,8 +757,13 @@
 		
 		/**
 		 * Sort the table by a particular column
+<<<<<<< HEAD
+		 *  @param {int} iCol the data index to sort on. Note that this will not match the
+		 *    'display index' if you have hidden data entries
+=======
 		 *  @param {int} iCol the data articles to sort on. Note that this will not match the
 		 *    'display articles' if you have hidden data entries
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *  @dtopt API
 		 *  @deprecated Since v1.10
 		 *
@@ -2143,11 +2161,19 @@
 	
 	
 	/**
+<<<<<<< HEAD
+	 * Covert the index of a visible column to the index in the data array (take account
+	 * of hidden columns)
+	 *  @param {object} oSettings dataTables settings object
+	 *  @param {int} iMatch Visible column index to lookup
+	 *  @returns {int} i the data index
+=======
 	 * Covert the articles of a visible column to the articles in the data array (take account
 	 * of hidden columns)
 	 *  @param {object} oSettings dataTables settings object
 	 *  @param {int} iMatch Visible column articles to lookup
 	 *  @returns {int} i the data articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *  @memberof DataTable#oApi
 	 */
 	function _fnVisibleToColumnIndex( oSettings, iMatch )
@@ -2161,11 +2187,19 @@
 	
 	
 	/**
+<<<<<<< HEAD
+	 * Covert the index of an index in the data array and convert it to the visible
+	 *   column index (take account of hidden columns)
+	 *  @param {int} iMatch Column index to lookup
+	 *  @param {object} oSettings dataTables settings object
+	 *  @returns {int} i the data index
+=======
 	 * Covert the articles of an articles in the data array and convert it to the visible
 	 *   column articles (take account of hidden columns)
 	 *  @param {int} iMatch Column articles to lookup
 	 *  @param {object} oSettings dataTables settings object
 	 *  @returns {int} i the data articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *  @memberof DataTable#oApi
 	 */
 	function _fnColumnIndexToVisible( oSettings, iMatch )
@@ -2443,10 +2477,17 @@
 	
 	
 	/**
+<<<<<<< HEAD
+	 * Take a TR element and convert it to an index in aoData
+	 *  @param {object} oSettings dataTables settings object
+	 *  @param {node} n the TR element to find
+	 *  @returns {int} index if the node is found, null if not
+=======
 	 * Take a TR element and convert it to an articles in aoData
 	 *  @param {object} oSettings dataTables settings object
 	 *  @param {node} n the TR element to find
 	 *  @returns {int} articles if the node is found, null if not
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *  @memberof DataTable#oApi
 	 */
 	function _fnNodeToDataIndex( oSettings, n )
@@ -2456,11 +2497,19 @@
 	
 	
 	/**
+<<<<<<< HEAD
+	 * Take a TD element and convert it into a column data index (not the visible index)
+	 *  @param {object} oSettings dataTables settings object
+	 *  @param {int} iRow The row number the TD/TH can be found in
+	 *  @param {node} n The TD/TH element to find
+	 *  @returns {int} index if the node is found, -1 if not
+=======
 	 * Take a TD element and convert it into a column data articles (not the visible articles)
 	 *  @param {object} oSettings dataTables settings object
 	 *  @param {int} iRow The row number the TD/TH can be found in
 	 *  @param {node} n The TD/TH element to find
 	 *  @returns {int} articles if the node is found, -1 if not
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *  @memberof DataTable#oApi
 	 */
 	function _fnNodeToColumnIndex( oSettings, iRow, n )
@@ -2862,10 +2911,17 @@
 	 * the cached data is next requested. Also update from the data source object.
 	 *
 	 * @param {object} settings DataTables settings object
+<<<<<<< HEAD
+	 * @param {int}    rowIdx   Row index to invalidate
+	 * @param {string} [src]    Source to invalidate from: undefined, 'auto', 'dom'
+	 *     or 'data'
+	 * @param {int}    [colIdx] Column index to invalidate. If undefined the whole
+=======
 	 * @param {int}    rowIdx   Row articles to invalidate
 	 * @param {string} [src]    Source to invalidate from: undefined, 'auto', 'dom'
 	 *     or 'data'
 	 * @param {int}    [colIdx] Column articles to invalidate. If undefined the whole
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *     row will be invalidated
 	 * @memberof DataTable#oApi
 	 *
@@ -7437,9 +7493,15 @@
 	
 	
 	/**
+<<<<<<< HEAD
+	 * Get the current page index.
+	 *
+	 * @return {integer} Current page index (zero based)
+=======
 	 * Get the current page articles.
 	 *
 	 * @return {integer} Current page articles (zero based)
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *//**
 	 * Set the current page.
 	 *
@@ -7474,10 +7536,17 @@
 	 * with a suitable selector.
 	 *
 	 * @return {object} Object with the following properties set:
+<<<<<<< HEAD
+	 *  * `page` - Current page index (zero based - i.e. the first page is `0`)
+	 *  * `pages` - Total number of pages
+	 *  * `start` - Display index for the first record shown on the current page
+	 *  * `end` - Display index for the last record shown on the current page
+=======
 	 *  * `page` - Current page articles (zero based - i.e. the first page is `0`)
 	 *  * `pages` - Total number of pages
 	 *  * `start` - Display articles for the first record shown on the current page
 	 *  * `end` - Display articles for the last record shown on the current page
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *  * `length` - Display length (number of records). Note that generally `start
 	 *    + length = end`, but this is not always true, for example if there are
 	 *    only 2 records to show on the final page, with a length of 10.
@@ -8372,8 +8441,13 @@
 	/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 	 * Columns
 	 *
+<<<<<<< HEAD
+	 * {integer}           - column index (>=0 count from left, <0 count from right)
+	 * "{integer}:visIdx"  - visible column index (i.e. translate to column index)  (>=0 count from left, <0 count from right)
+=======
 	 * {integer}           - column articles (>=0 count from left, <0 count from right)
 	 * "{integer}:visIdx"  - visible column articles (i.e. translate to column articles)  (>=0 count from left, <0 count from right)
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 * "{integer}:visible" - alias for {integer}:visIdx  (>=0 count from left, <0 count from right)
 	 * "{string}:name"     - column name
 	 * "{string}"          - jQuery selector on column header nodes
@@ -8443,7 +8517,11 @@
 					case 'visIdx':
 					case 'visible':
 						var idx = parseInt( match[1], 10 );
+<<<<<<< HEAD
+						// Visible index given, convert to column index
+=======
 						// Visible articles given, convert to column articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 						if ( idx < 0 ) {
 							// Counting from the right
 							var visColumns = $.map( columns, function (col,i) {
@@ -8880,9 +8958,15 @@
 	 *   table in the current context. Each element in the parent array represents
 	 *   a column being sorted upon (i.e. multi-sorting with two columns would have
 	 *   2 inner arrays). The inner arrays may have 2 or 3 elements. The first is
+<<<<<<< HEAD
+	 *   the column index that the sorting condition applies to, the second is the
+	 *   direction of the sort (`desc` or `asc`) and, optionally, the third is the
+	 *   index of the sorting order from the `column.sorting` initialisation array.
+=======
 	 *   the column articles that the sorting condition applies to, the second is the
 	 *   direction of the sort (`desc` or `asc`) and, optionally, the third is the
 	 *   articles of the sorting order from the `column.sorting` initialisation array.
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 	 *//**
 	 * Set the ordering for the table.
 	 *
@@ -10167,8 +10251,13 @@
 		 * array may be:
 		 *   <ul>
 		 *     <li>a string - class name will be matched on the TH for the column</li>
+<<<<<<< HEAD
+		 *     <li>0 or a positive integer - column index counting from the left</li>
+		 *     <li>a negative integer - column index counting from the right</li>
+=======
 		 *     <li>0 or a positive integer - column articles counting from the left</li>
 		 *     <li>a negative integer - column articles counting from the right</li>
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *     <li>the string "_all" - all columns (i.e. assign a default)</li>
 		 *   </ul>
 		 *  @member
@@ -10818,8 +10907,13 @@
 		 *  @type function
 		 *  @param {node} row "TR" element for the current row
 		 *  @param {array} data Raw data array for this row
+<<<<<<< HEAD
+		 *  @param {int} displayIndex The display index for the current table draw
+		 *  @param {int} displayIndexFull The index of the data in the full list of
+=======
 		 *  @param {int} displayIndex The display articles for the current table draw
 		 *  @param {int} displayIndexFull The articles of the data in the full list of
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *    rows (after filtering)
 		 *
 		 *  @dtopt Callbacks
@@ -11393,8 +11487,13 @@
 			 * display updates. This tokens can be placed anywhere in the string, or
 			 * removed as needed by the language requires:
 			 *
+<<<<<<< HEAD
+			 * * `\_START\_` - Display index of the first record on the current page
+			 * * `\_END\_` - Display index of the last record on the current page
+=======
 			 * * `\_START\_` - Display articles of the first record on the current page
 			 * * `\_END\_` - Display articles of the last record on the current page
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 			 * * `\_TOTAL\_` - Number of records in the table after filtering
 			 * * `\_MAX\_` - Number of records in the table without filtering
 			 * * `\_PAGE\_` - Current page number
@@ -12207,8 +12306,13 @@
 		 *  @param {element} td The TD node that has been created
 		 *  @param {*} cellData The Data for the cell
 		 *  @param {array|object} rowData The data for the whole row
+<<<<<<< HEAD
+		 *  @param {int} row The row index for the aoData data store
+		 *  @param {int} col The column index for aoColumns
+=======
 		 *  @param {int} row The row articles for the aoData data store
 		 *  @param {int} col The column articles for aoColumns
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *
 		 *  @name DataTable.defaults.column.createdCell
 		 *  @dtopt Columns
@@ -12244,7 +12348,11 @@
 		 * including deeply nested objects / properties. `data` can be given in a
 		 * number of different ways which effect its behaviour:
 		 *
+<<<<<<< HEAD
+		 * * `integer` - treated as an array index for the data source. This is the
+=======
 		 * * `integer` - treated as an array articles for the data source. This is the
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *   default that DataTables uses (incrementally increased for each column).
 		 * * `string` - read an object property from the data source. There are
 		 *   three 'special' options that can be used in the string to alter how
@@ -12302,7 +12410,11 @@
 		 * if required.
 		 *
 		 *  @type string|int|function|null
+<<<<<<< HEAD
+		 *  @default null <i>Use automatically calculated column index</i>
+=======
 		 *  @default null <i>Use automatically calculated column articles</i>
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *
 		 *  @name DataTable.defaults.column.data
 		 *  @dtopt Columns
@@ -13906,7 +14018,11 @@
 		 * 2. `{array|object}` Data for the row to be processed (same as the
 		 *    original format that was passed in as the data source, or an array
 		 *    from a DOM data source
+<<<<<<< HEAD
+		 * 3. `{int}` Row index ({@link DataTable.models.oSettings.aoData}), which
+=======
 		 * 3. `{int}` Row articles ({@link DataTable.models.oSettings.aoData}), which
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *    can be useful to retrieve the `TR` element if you need DOM interaction.
 		 *
 		 * And the following return is expected:
@@ -13923,7 +14039,11 @@
 		 *
 		 *  @example
 		 *    // The following example shows custom search being applied to the
+<<<<<<< HEAD
+		 *    // fourth column (i.e. the data[3] index) based on two input values
+=======
 		 *    // fourth column (i.e. the data[3] articles) based on two input values
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *    // from the end-user, matching the data in a certain range.
 		 *    $.fn.dataTable.ext.search.push(
 		 *      function( settings, data, dataIndex ) {
@@ -14028,7 +14148,11 @@
 		 *
 		 * The functions defined take two parameters:
 		 *
+<<<<<<< HEAD
+		 * 1. `{int} page` The current page index
+=======
 		 * 1. `{int} page` The current page articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 * 2. `{int} pages` The number of pages in the table
 		 *
 		 * Each function is expected to return an array where each element of the
@@ -14038,7 +14162,11 @@
 		 * * `last` - Jump to last page when activated
 		 * * `previous` - Show previous page when activated
 		 * * `next` - Show next page when activated
+<<<<<<< HEAD
+		 * * `{int}` - Show page of the index given
+=======
 		 * * `{int}` - Show page of the articles given
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 * * `{array}` - A nested array containing the above elements to add a
 		 *   containing 'DIV' element (might be useful for styling).
 		 *
@@ -14080,7 +14208,11 @@
 		 * 
 		 * The way these plug-ins work is that you create an array of the values you
 		 * wish to be ordering for the column in question and then return that
+<<<<<<< HEAD
+		 * array. The data in the array much be in the index order of the rows in
+=======
 		 * array. The data in the array much be in the articles order of the rows in
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 * the table (not the currently ordering order!). Which order data gathering
 		 * function is run here depends on the `dt-init columns.orderDataType`
 		 * parameter that is used for the column (if any).
@@ -14089,7 +14221,11 @@
 		 *
 		 * 1. `{object}` DataTables settings object: see
 		 *    {@link DataTable.models.oSettings}
+<<<<<<< HEAD
+		 * 2. `{int}` Target column index
+=======
 		 * 2. `{int}` Target column articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *
 		 * Each function is expected to return an array:
 		 *
@@ -14101,7 +14237,11 @@
 		 *    // Ordering using `input` node values
 		 *    $.fn.dataTable.ext.order['dom-text'] = function  ( settings, col )
 		 *    {
+<<<<<<< HEAD
+		 *      return this.api().column( col, {order:'index'} ).nodes().map( function ( td, i ) {
+=======
 		 *      return this.api().column( col, {order:'articles'} ).nodes().map( function ( td, i ) {
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		 *        return $('input', td).val();
 		 *      } );
 		 *    }
