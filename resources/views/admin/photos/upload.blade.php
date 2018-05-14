@@ -21,7 +21,7 @@
                             <h3 class="box-title">图片上传</h3>
                         </div>
 
-                        <form method="post" action="" class="form-horizontal">
+                        <form method="post" action="{{ route('admin.photos.store')}}" class="form-horizontal">
                             {!!csrf_field()!!}
                             <div class="box-body">
                                 <div class="form-group{{ $errors->has('book') ? ' has-error' : '' }}">

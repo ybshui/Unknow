@@ -12,6 +12,6 @@ class IndexController extends Controller
 	{
 		$articles = Articles::orderBy('id')->get(['title', 'content']);
 		
-		return view('articles.articles', ['articles' => $articles]);
+		return view('index.index', ['articles' => $articles]);
 	}
 }

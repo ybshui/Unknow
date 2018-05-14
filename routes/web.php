@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 */
 
-Route::get('/', 'IndexController@articles')->name('articles');
+Route::get('/', 'IndexController@index')->name('articles');
 
 Route::get('/adminArticles', 'Admin\ArticleController@articles')->name('admin.articles');
 
@@ -33,6 +33,7 @@ Route::name('admin.articles.')->group(function () {
 Route::name('admin.photos.')->group(function () {
 	Route::get('photoList', 'Admin\PhotoController@lists')->name('list');
 	Route::get('photoUpload', 'Admin\PhotoController@upload')->name('upload');
+	Route::get('photoStore', 'Admin\PhotoController@store')->name('store');
 });
 
 

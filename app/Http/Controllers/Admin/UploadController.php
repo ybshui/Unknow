@@ -30,7 +30,7 @@ class UploadController extends Controller
 				$status = 0;
 				$path = "upload/images/";
 				$file_path = $path . $file_name;
-				
+				echo $file_path;
 				// 判断当前的目录是否存在，若不存在就新建一个!
 				if (!is_dir($path)){
 					mkdir($path,0777);
