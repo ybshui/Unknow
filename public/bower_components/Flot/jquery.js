@@ -4215,7 +4215,11 @@ Expr = Sizzle.selectors = {
 					// advance to the next closing parenthesis
 					(excess = unquoted.indexOf( ")", unquoted.length - excess ) - unquoted.length) ) {
 
+<<<<<<< HEAD
 					// excess is a negative index
+=======
+					// excess is a negative articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 					unquoted = unquoted.slice( 0, excess );
 					match[0] = match[0].slice( 0, excess );
 				}
@@ -5042,7 +5046,11 @@ function matcherFromGroupMatchers( elementMatchers, setMatchers ) {
 						}
 					}
 
+<<<<<<< HEAD
 					// Discard index placeholder values to get only actual matches
+=======
+					// Discard articles placeholder values to get only actual matches
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 					setMatched = condense( setMatched );
 				}
 
@@ -5463,12 +5471,20 @@ jQuery.fn.extend({
 	// the matched set of elements
 	index: function( elem ) {
 
+<<<<<<< HEAD
 		// No argument, return index in parent
+=======
+		// No argument, return articles in parent
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		if ( !elem ) {
 			return ( this[0] && this[0].parentNode ) ? this.prevAll().length : -1;
 		}
 
+<<<<<<< HEAD
 		// index in selector
+=======
+		// articles in selector
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 		if ( typeof elem === "string" ) {
 			return jQuery.inArray( this[0], jQuery( elem ) );
 		}
@@ -6408,7 +6424,11 @@ jQuery.extend({
 						// handleScript alters the DOM, so use jQuery.merge to ensure snapshot iteration
 						jsTags = jQuery.grep( jQuery.merge( [], elem.getElementsByTagName("script") ), handleScript );
 
+<<<<<<< HEAD
 						// Splice the scripts into ret after their former ancestor and advance our index beyond them
+=======
+						// Splice the scripts into ret after their former ancestor and advance our articles beyond them
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 						ret.splice.apply( ret, [i + 1, 0].concat( jsTags ) );
 						i += jsTags.length;
 					}
@@ -7255,7 +7275,11 @@ function buildParams( prefix, obj, traditional, add ) {
 
 			} else {
 				// If array item is non-scalar (array or object), encode its
+<<<<<<< HEAD
 				// numeric index to resolve deserialization ambiguity issues.
+=======
+				// numeric articles to resolve deserialization ambiguity issues.
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 				// Note that rack (as of 1.0.0) can't currently deserialize
 				// nested arrays properly, and attempting to do so may cause
 				// a server error. Possible fixes are to modify rack's
@@ -8745,7 +8769,11 @@ function propFilter( props, specialEasing ) {
 			delete props[ name ];
 
 			// not quite $.extend, this wont overwrite keys already present.
+<<<<<<< HEAD
 			// also - reusing 'index' from above because we have the correct "name"
+=======
+			// also - reusing 'articles' from above because we have the correct "name"
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
 			for ( index in value ) {
 				if ( !( index in props ) ) {
 					props[ index ] = value[ index ];

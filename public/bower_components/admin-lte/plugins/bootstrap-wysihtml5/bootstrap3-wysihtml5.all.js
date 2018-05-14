@@ -4599,7 +4599,11 @@ wysihtml5.browser = (function() {
     },
 
     /**
+<<<<<<< HEAD
      * Check whether a given object exists in an array and return index
+=======
+     * Check whether a given object exists in an array and return articles
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
      * If no elelemt found returns -1
      *
      * @example
@@ -4659,7 +4663,11 @@ wysihtml5.browser = (function() {
      * optionally this can be provided as second argument
      *
      * @example
+<<<<<<< HEAD
      *    var childNodes = wysihtml5.lang.array([1,2,3,4]).map(function (value, index, array) {
+=======
+     *    var childNodes = wysihtml5.lang.array([1,2,3,4]).map(function (value, articles, array) {
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
             return value * 2;
      *    });
      *    // => [2,4,6,8]
@@ -7442,7 +7450,11 @@ wysihtml5.dom.isLoadedImage = function (node) {
                     cell = cells[cidx];
 
                     // If cell allready set means it is set by col or rowspan,
+<<<<<<< HEAD
                     // so increase cols index until free col is found
+=======
+                    // so increase cols articles until free col is found
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
                     while (typeof map[ridx][c] != "undefined") { c++; }
 
                     cspan = api.getAttribute(cell, 'colspan');
@@ -7575,7 +7587,11 @@ wysihtml5.dom.isLoadedImage = function (node) {
             return frag;
         },
 
+<<<<<<< HEAD
         // Returns next real cell (not part of spanned cell unless first) on row if selected index is not real. I no real cells -1 will be returned
+=======
+        // Returns next real cell (not part of spanned cell unless first) on row if selected articles is not real. I no real cells -1 will be returned
+>>>>>>> e7c1cafc4a0166b58cb468914954159245b39f80
         correctColIndexForUnreals: function(col, row) {
             var r = this.map[row],
                 corrIdx = -1;
