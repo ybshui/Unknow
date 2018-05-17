@@ -9,6 +9,10 @@ class UploadController extends Controller
 {
     //
 	private $file = [];
+	public function __construct()
+	{
+		$this->middleware('auth');
+	}
 	
 	public function uploadImage(Request $request)
 	{
@@ -30,21 +34,26 @@ class UploadController extends Controller
 				$status = 0;
 				$path = "upload/images/";
 				$file_path = $path . $file_name;
-				echo $file_path;
 				// 判断当前的目录是否存在，若不存在就新建一个!
 				if (!is_dir($path)){
-					mkdir($path,0777);
+					mkdir($path);
 				}
 				
-				//此函数只支持 HTTP POST 上传的文件
-				$upload_result = move_uploaded_file($file_tmp, $file_path);
-				
-				if ($upload_result) {
-					$status = 1;
-					$message = $file_path;
+				if (file_exists($file_path)) {
+					$message = "文件以存在";
 				} else {
-					$message = "文件上传失败，请稍后再尝试";
+					//此函数只支持 HTTP POST 上传的文件
+					$upload_result = move_uploaded_file($file_tmp, $file_path);
+					
+					if ($upload_result) {
+						$status = 1;
+						$message = $file_path;
+					} else {
+						$message = "文件上传失败，请稍后再尝试";
+					}
 				}
+				
+				
 			}
 		} else {
 			$message = "参数错误";

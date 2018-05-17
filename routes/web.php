@@ -33,10 +33,14 @@ Route::name('admin.articles.')->group(function () {
 Route::name('admin.photos.')->group(function () {
 	Route::get('photoList', 'Admin\PhotoController@lists')->name('list');
 	Route::get('photoUpload', 'Admin\PhotoController@upload')->name('upload');
-	Route::get('photoStore', 'Admin\PhotoController@store')->name('store');
+	Route::post('photoStore', 'Admin\PhotoController@store')->name('store');
 });
 
 
 
 Route::post('/uploadImage', 'Admin\UploadController@uploadImage')->name('admin.uploadImage');
 Route::get('/deleteImage', 'Admin\UploadController@deleteImage')->name('admin.deleteImage');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

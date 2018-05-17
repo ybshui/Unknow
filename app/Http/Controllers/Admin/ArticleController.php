@@ -10,6 +10,12 @@ use App\Http\Controllers\Controller;
 class ArticleController extends Controller
 {
     //
+	public function __construct()
+	{
+		$this->middleware('auth');
+	}
+	
+	
 	public function write()
 	{
 		$tags = Tags::orderBy('id')->get(['id', 'tag']);

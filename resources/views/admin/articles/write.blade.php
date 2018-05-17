@@ -133,15 +133,19 @@
                         demoText.html('<a style="margin-left: 30.5%; margin-top: -5.5%;" class="layui-btn layui-btn-mini demo-reload demo-delete" onclick="delete_image()">删除</a>');
 
                         $('input[name="image_path"]').val(res.message);
-                        layer.alert('上传成功');
+                        layer.msg('上传成功');
                     }else{
-                        layer.alert(res.message);
+                        layer.msg(res.message);
                     }
                 },
-                error: function(){
+                error: function(res){
                     //演示失败状态，并实现重传
+                    layer.msg('上传失败');
+                    $('#test1').val('');
+                    $('#demo1').attr('src', '');
+                    $('#demoText').html('');
                     var demoText = $('#demoText');
-                    demoText.html('<span style="color: #FF5722;">上传失败</span> <a class="layui-btn layui-btn-mini demo-reload" >重试</a>');
+                    demoText.html('<a class="layui-btn layui-btn-mini demo-reload" style="margin-left: 176px">重试</a>');
                     demoText.find('.demo-reload').on('click', function(){
                         uploadInst.upload();
                     });

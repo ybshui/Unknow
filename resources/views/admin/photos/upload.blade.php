@@ -98,19 +98,23 @@
                     if(res.status == 1){
                         var path_str = $("input[name='photo_path']").val();
                         if (path_str != '') {
-                            path_str += ","
+                            path_str += ",";
                         }
                         path_str += res.message;
                         $('input[name="photo_path"]').val(path_str);
-                        //layer.alert('上传成功');
+                        layer.alert('上传成功');
                     }else{
                         layer.alert(res.message);
                     }
                 },
                 error: function(){
                     //演示失败状态，并实现重传
+                    layer.alert('上传失败');
+                    $('#test1').val('');
+                    $('#demoText').attr('src', '');
+                    $('#demoText').html('');
                     var demoText = $('#demoText');
-                    demoText.html('<span style="color: #FF5722;">上传失败</span> <a class="layui-btn layui-btn-mini demo-reload" >重试</a>');
+                    demoText.html('<a class="layui-btn layui-btn-mini demo-reload" >重试</a>');
                     demoText.find('.demo-reload').on('click', function(){
                         uploadInst.upload();
                     });
@@ -119,7 +123,8 @@
         });
         function delete_image(that) {
 
-            var file_path = that.val();console.log(that);
+            var file_name = that.prev().attr('alt');
+            var file_path = "upload/images/" + file_name;
             $.ajax({
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="_token"]').attr('content')
@@ -131,9 +136,11 @@
 
                 }
             });
-            $('#test1').val('');
-            $("#demo2").attr('src', '');
-            $('#demoText').html('');
+            var path_str = $('input[name="photo_path"]').val();
+            path_str = (path_str.replace(file_path, '')).replace(/(^,)|(,$)/g, '');
+            $('input[name="photo_path"]').val(path_str);
+            $(that).prev('img').remove();
+            $(that).remove('a');
         }
     </script>
 @endsection
