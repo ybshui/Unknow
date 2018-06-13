@@ -16,7 +16,13 @@ Route::get('/', function () {
 });
 */
 
-Route::get('/', 'IndexController@index')->name('articles');
+Route::get('/', function () {
+	return redirect()->route('admin.articles');
+});
+
+Route::get('/web', 'IndexController@index')->name('index');
+Route::get('/webArticleShow', 'IndexController@article_show')->name('web.articles.show');
+Route::post('/webAjaxPhotos', 'IndexController@ajax_photos')->name('web.photos.ajax');
 
 Route::get('/adminArticles', 'Admin\ArticleController@articles')->name('admin.articles');
 
@@ -36,11 +42,8 @@ Route::name('admin.photos.')->group(function () {
 	Route::post('photoStore', 'Admin\PhotoController@store')->name('store');
 });
 
-
-
 Route::post('/uploadImage', 'Admin\UploadController@uploadImage')->name('admin.uploadImage');
 Route::get('/deleteImage', 'Admin\UploadController@deleteImage')->name('admin.deleteImage');
 
 Auth::routes();
-
 Route::get('/home', 'HomeController@index')->name('home');

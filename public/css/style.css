@@ -971,7 +971,7 @@ a.btn:focus{
     border: 1px solid #28c3ab;
     outline: 0;
     color: #000;
-    background-color: #28c3ab;
+    background-color: #fff;
 }
 
 .btn-huge {

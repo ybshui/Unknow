@@ -15,11 +15,13 @@ class PhotoController extends Controller
 	
 	public function __construct()
 	{
-		$this->middleware('auth');
+		//$this->middleware('auth');
 	}
 	
 	public function lists(Request $request)
 	{
+		dd(decrypt(111111));
+		
 		$books = photoBooks::get();
 		
 		$pid = $request->input('book');

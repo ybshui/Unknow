@@ -12,7 +12,7 @@
                 <small></small>
             </h1>
         </section>
-
+        {{ csrf_field() }}
         <section class="content">
             <div class="row">
                 <div class="col-xs-12">
