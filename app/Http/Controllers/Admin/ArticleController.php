@@ -47,7 +47,7 @@ class ArticleController extends Controller
 			$articles[$key]->tags = $str;
 		}
 		
-		return view('admin.articles.new_articles', ['articles' => $articles]);
+		return view('admin.articles.articles', ['articles' => $articles]);
 	}
 	
 	/**

@@ -2,52 +2,6 @@
 
 @section('content')
 <div class="wrapper" style="font-size: 15px;">
-    <!-- Left side column. contains the logo and sidebar -->
-
-    <!-- sidebar: style can be found in sidebar.less -->
-    <section class="sidebar" style="float: left">
-
-        <!-- Sidebar Menu -->
-        <ul class="sidebar-menu" data-widget="tree">
-            <li class="header">HEADER</li>
-            <!-- Optionally, you can add icons to the links -->
-            <li class="treeview">
-                <a href="#"><i class="fa fa-link"></i> <span>文章管理</span>
-                    <span class="pull-right-container">
-                    <i class="fa fa-angle-left pull-right"></i>
-                </span>
-                </a>
-                <ul class="treeview-menu">
-                    <li><a href="{{ route('admin.articles') }}">文章列表</a></li>
-                    <li><a href="{{ route('admin.articles.write') }}">文章编辑</a></li>
-                </ul>
-            </li>
-            <li class="treeview">
-                <a href="#"><i class="fa fa-link"></i> <span>图片管理</span>
-                    <span class="pull-right-container">
-                    <i class="fa fa-angle-left pull-right"></i>
-                </span>
-                </a>
-                <ul class="treeview-menu">
-                    <li><a href="{{ route('admin.photos.list') }}">图片列表</a></li>
-                    <li><a href="{{ route('admin.photos.upload') }}">上传图片</a></li>
-                </ul>
-            </li>
-            <li class="treeview">
-                <a href="#"><i class="fa fa-link"></i> <span>菜单三</span>
-                    <span class="pull-right-container">
-                    <i class="fa fa-angle-left pull-right"></i>
-                </span>
-                </a>
-                <ul class="treeview-menu">
-                    <li><a href="#">二级菜单一</a></li>
-                    <li><a href="#">二级菜单二</a></li>
-                </ul>
-            </li>
-        </ul>
-        <!-- /.sidebar-menu -->
-    </section>
-    <!-- /.sidebar -->
     <div class="container col-md-10 " style="float: right">
 
         <section class="content">

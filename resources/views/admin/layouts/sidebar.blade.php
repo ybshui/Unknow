@@ -1,4 +1,4 @@
-<div>
+<aside class="main-sidebar">
     <!-- sidebar: style can be found in sidebar.less -->
     <section class="sidebar">
 
@@ -25,7 +25,6 @@
             </div>
         </form>
         <!-- /.search form -->
-        {{--
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu" data-widget="tree">
             <li class="header">HEADER</li>
@@ -65,22 +64,7 @@
             </li>
         </ul>
         <!-- /.sidebar-menu -->
-        --}}
-        <li>
-            <h2 tabindex="0" class="">文章管理</h2>
-            <ul>
-                <li><a href="{{ route('admin.articles') }}">文章列表</a></li>
-                <li><a href="{{ route('admin.articles.write') }}">文章编辑</a></li>
-            </ul>
-        </li>
-        <li>
-            <h2 tabindex="0">图片管理</h2>
-            <ul>
-                <li><a href="{{ route('admin.photos.list') }}">图片列表</a></li>
-                <li><a href="{{ route('admin.photos.upload') }}">上传图片</a></li>
-            </ul>
-        </li>
         </ul>
     </section>
     <!-- /.sidebar -->
-</div>
+</aside>
